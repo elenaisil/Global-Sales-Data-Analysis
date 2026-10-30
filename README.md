@@ -23,8 +23,6 @@ The raw dataset contained several data quality issues that would have skewed the
 4.  **Duplicate Records:** Identified and removed 174 exact duplicate orders using `SELECT DISTINCT` and `ROW_NUMBER()` to prevent double-counting.
 5.  **Missing Values:** Handled missing data strategically (e.g., imputed missing `Discount_Percent` with 0, labeled missing `Shipping_City` as "Unknown", and left missing `Customer_Rating` as NULL to avoid skewing the average CSAT).
 
-*(💡 **Tip:** If you have screenshots of your SQL queries, insert them here. See the "How to add images" section below).*
-
 ---
 
 ## 💡 Key Business Insights
@@ -75,7 +73,7 @@ Based on the cleaned data and Tableau dashboard, here are the major findings:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/elenaisil/Global-Sales-Data-Analysis/raw/main/dashboard.png)
 
 ---
 
