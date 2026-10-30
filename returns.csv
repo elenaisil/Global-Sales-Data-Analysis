@@ -1,0 +1,2244 @@
+Order_ID,Country,Product_Category,Order_Status
+ORD002861,Australia,Fashion,Cancelled
+ORD011407,United States,Books,Returned
+ORD002304,Germany,Sports,Cancelled
+ORD000325,India,Electronics,Cancelled
+ORD011670,United arab emirates,Electronics,Cancelled
+ORD007969,Germany,Grocery,Cancelled
+ORD008127,Australia,Grocery,Cancelled
+ORD004756,Australia,Electronics,Returned
+ORD009400,Germany,Fashion,Cancelled
+ORD007126,Australia,Electronics,Returned
+ORD002604,India,Grocery,Returned
+ORD009167,United arab emirates,Grocery,Cancelled
+ORD001764,United Kingdom,Beauty,Cancelled
+ORD000250,United Kingdom,Books,Cancelled
+ORD007835,Canada,Fashion,Cancelled
+ORD001862,United States,Books,Cancelled
+ORD006646,United Kingdom,Sports,Returned
+ORD003125,Canada,Sports,Cancelled
+ORD002437,United Kingdom,Sports,Returned
+ORD002603,United arab emirates,Sports,Cancelled
+ORD001240,Australia,Home & Kitchen,Returned
+ORD007954,Germany,Books,Returned
+ORD009097,United arab emirates,Home & Kitchen,Cancelled
+ORD011203,Germany,Books,Cancelled
+ORD002871,Canada,Home & Kitchen,Cancelled
+ORD007413,United arab emirates,Fashion,Returned
+ORD001559,India,Toys,Cancelled
+ORD006541,Canada,Fashion,Returned
+ORD008185,United arab emirates,Grocery,Returned
+ORD011679,United arab emirates,Electronics,Returned
+ORD008213,United arab emirates,Home & Kitchen,Cancelled
+ORD001814,India,Fashion,Returned
+ORD006667,United States,Beauty,Returned
+ORD000404,United States,Toys,Cancelled
+ORD000649,Germany,Beauty,Returned
+ORD001238,United arab emirates,Sports,Returned
+ORD006311,India,Sports,Returned
+ORD003979,India,Home & Kitchen,Returned
+ORD006368,India,Sports,Returned
+ORD003660,Australia,Books,Returned
+ORD010148,Australia,Home & Kitchen,Returned
+ORD002974,India,Beauty,Returned
+ORD009545,Germany,Toys,Returned
+ORD000856,United States,Sports,Cancelled
+ORD003080,India,Beauty,Returned
+ORD002063,India,Grocery,Cancelled
+ORD004668,United Kingdom,Books,Cancelled
+ORD008211,India,Electronics,Cancelled
+ORD003696,Canada,Toys,Cancelled
+ORD007335,India,Sports,Cancelled
+ORD006163,Canada,Grocery,Cancelled
+ORD006877,Germany,Grocery,Returned
+ORD006301,United arab emirates,Fashion,Cancelled
+ORD003950,United Kingdom,Toys,Returned
+ORD000852,Germany,Fashion,Returned
+ORD010671,Australia,Beauty,Cancelled
+ORD007240,Canada,Home & Kitchen,Returned
+ORD011680,Germany,Books,Cancelled
+ORD011385,United States,Books,Cancelled
+ORD008346,United States,Fashion,Returned
+ORD007866,United Kingdom,Electronics,Returned
+ORD011881,Canada,Books,Cancelled
+ORD005642,Canada,Beauty,Cancelled
+ORD002649,Australia,Fashion,Returned
+ORD003003,United Kingdom,Electronics,Returned
+ORD006559,Australia,Toys,Cancelled
+ORD011718,United States,Books,Cancelled
+ORD000243,Germany,Home & Kitchen,Cancelled
+ORD007316,Canada,Toys,Cancelled
+ORD000046,India,Electronics,Returned
+ORD010820,United States,Toys,Cancelled
+ORD006238,United States,Books,Returned
+ORD006479,United Kingdom,Toys,Cancelled
+ORD005135,United arab emirates,Books,Cancelled
+ORD010944,Australia,Electronics,Returned
+ORD003266,Australia,Grocery,Cancelled
+ORD003280,United arab emirates,Fashion,Cancelled
+ORD006026,Canada,Home & Kitchen,Returned
+ORD006378,United Kingdom,Books,Returned
+ORD002073,India,Electronics,Cancelled
+ORD006675,United States,Books,Cancelled
+ORD004679,India,Fashion,Returned
+ORD011989,United States,Grocery,Returned
+ORD010013,Germany,Fashion,Cancelled
+ORD002684,Australia,Grocery,Returned
+ORD000496,Australia,Home & Kitchen,Returned
+ORD007518,Germany,Electronics,Returned
+ORD002613,Australia,Grocery,Returned
+ORD002751,United Kingdom,Toys,Returned
+ORD002353,Australia,Sports,Cancelled
+ORD002436,United States,Electronics,Cancelled
+ORD003104,United States,Home & Kitchen,Cancelled
+ORD001808,Canada,Books,Cancelled
+ORD004218,Canada,Fashion,Cancelled
+ORD010602,United States,Home & Kitchen,Returned
+ORD003301,Australia,Sports,Returned
+ORD004846,United States,Books,Cancelled
+ORD005623,Australia,Fashion,Cancelled
+ORD008657,Australia,Sports,Returned
+ORD008274,United States,Electronics,Cancelled
+ORD001030,United Kingdom,Sports,Returned
+ORD009540,Australia,Grocery,Returned
+ORD002873,United Kingdom,Electronics,Cancelled
+ORD011841,United arab emirates,Fashion,Cancelled
+ORD001224,United Kingdom,Fashion,Returned
+ORD009068,United States,Sports,Returned
+ORD007102,Australia,Electronics,Cancelled
+ORD002766,Germany,Books,Returned
+ORD009704,United Kingdom,Electronics,Cancelled
+ORD002752,Germany,Beauty,Cancelled
+ORD007011,India,Beauty,Cancelled
+ORD006065,United arab emirates,Grocery,Cancelled
+ORD009124,Canada,Sports,Cancelled
+ORD008659,Germany,Home & Kitchen,Cancelled
+ORD005252,Australia,Home & Kitchen,Cancelled
+ORD000095,United States,Home & Kitchen,Returned
+ORD002153,Australia,Books,Returned
+ORD011749,United States,Toys,Cancelled
+ORD003145,Germany,Books,Cancelled
+ORD005159,United States,Beauty,Cancelled
+ORD009304,Australia,Grocery,Cancelled
+ORD007124,United arab emirates,Fashion,Returned
+ORD010241,United Kingdom,Toys,Cancelled
+ORD001899,India,Fashion,Returned
+ORD003691,Australia,Books,Cancelled
+ORD005412,Australia,Home & Kitchen,Returned
+ORD011920,United arab emirates,Toys,Returned
+ORD003026,United States,Sports,Returned
+ORD005605,India,Sports,Cancelled
+ORD003605,United Kingdom,Sports,Returned
+ORD000650,United arab emirates,Grocery,Cancelled
+ORD005597,Canada,Grocery,Cancelled
+ORD000167,United Kingdom,Fashion,Cancelled
+ORD005500,India,Grocery,Cancelled
+ORD010441,United arab emirates,Home & Kitchen,Returned
+ORD010907,Canada,Home & Kitchen,Cancelled
+ORD007306,Australia,Beauty,Cancelled
+ORD000234,United States,Beauty,Returned
+ORD002324,United Kingdom,Electronics,Cancelled
+ORD006571,Germany,Fashion,Cancelled
+ORD002662,United States,Sports,Returned
+ORD003372,Australia,Electronics,Cancelled
+ORD003302,Australia,Fashion,Returned
+ORD005301,India,Fashion,Returned
+ORD009630,India,Home & Kitchen,Cancelled
+ORD005628,United States,Books,Cancelled
+ORD011735,India,Sports,Cancelled
+ORD003859,United arab emirates,Grocery,Cancelled
+ORD000877,Australia,Books,Returned
+ORD007323,Australia,Electronics,Cancelled
+ORD007833,United Kingdom,Electronics,Returned
+ORD006645,United arab emirates,Sports,Cancelled
+ORD005207,Canada,Grocery,Cancelled
+ORD011179,Germany,Home & Kitchen,Returned
+ORD003304,Canada,Grocery,Cancelled
+ORD010660,Australia,Grocery,Returned
+ORD001546,United arab emirates,Beauty,Returned
+ORD002216,Canada,Books,Cancelled
+ORD006636,United States,Sports,Returned
+ORD009349,United arab emirates,Beauty,Returned
+ORD011230,India,Sports,Returned
+ORD002058,Australia,Fashion,Returned
+ORD011889,United Kingdom,Electronics,Returned
+ORD010699,Canada,Home & Kitchen,Returned
+ORD001203,United Kingdom,Home & Kitchen,Returned
+ORD002467,Germany,Beauty,Cancelled
+ORD006281,India,Toys,Returned
+ORD002887,Australia,Beauty,Returned
+ORD001301,India,Beauty,Cancelled
+ORD004719,Canada,Fashion,Returned
+ORD009562,United States,Grocery,Cancelled
+ORD005053,Germany,Home & Kitchen,Cancelled
+ORD006764,United Kingdom,Grocery,Returned
+ORD004258,United Kingdom,Toys,Returned
+ORD006474,India,Toys,Returned
+ORD005383,United arab emirates,Fashion,Returned
+ORD004281,United States,Electronics,Cancelled
+ORD001220,Germany,Sports,Cancelled
+ORD004050,India,Beauty,Cancelled
+ORD000926,United States,Sports,Cancelled
+ORD006584,United Kingdom,Beauty,Cancelled
+ORD009127,United Kingdom,Beauty,Cancelled
+ORD007148,Australia,Grocery,Returned
+ORD011621,Australia,Toys,Cancelled
+ORD005696,Germany,Home & Kitchen,Returned
+ORD006831,India,Home & Kitchen,Returned
+ORD004239,United States,Books,Cancelled
+ORD003422,Australia,Fashion,Returned
+ORD004779,India,Toys,Cancelled
+ORD000043,Germany,Electronics,Cancelled
+ORD010275,Canada,Sports,Cancelled
+ORD005610,Australia,Books,Cancelled
+ORD010516,United arab emirates,Toys,Cancelled
+ORD001491,Australia,Home & Kitchen,Returned
+ORD009632,Australia,Toys,Cancelled
+ORD006496,Australia,Electronics,Cancelled
+ORD004303,India,Grocery,Returned
+ORD002167,United States,Books,Cancelled
+ORD007967,United arab emirates,Books,Returned
+ORD011952,United arab emirates,Beauty,Cancelled
+ORD008300,Germany,Beauty,Cancelled
+ORD008273,United Kingdom,Books,Cancelled
+ORD007541,United arab emirates,Fashion,Cancelled
+ORD000774,United arab emirates,Beauty,Cancelled
+ORD007651,Australia,Fashion,Returned
+ORD001279,United arab emirates,Fashion,Cancelled
+ORD005673,United States,Home & Kitchen,Cancelled
+ORD004931,Canada,Electronics,Returned
+ORD000146,Canada,Toys,Cancelled
+ORD004014,Canada,Fashion,Cancelled
+ORD010116,United arab emirates,Fashion,Returned
+ORD006642,India,Home & Kitchen,Returned
+ORD010159,Australia,Beauty,Cancelled
+ORD003175,United Kingdom,Grocery,Returned
+ORD007528,Canada,Books,Cancelled
+ORD011006,Canada,Books,Cancelled
+ORD002208,India,Books,Returned
+ORD006060,Germany,Books,Returned
+ORD000028,United arab emirates,Beauty,Returned
+ORD010179,Germany,Grocery,Cancelled
+ORD003273,United arab emirates,Sports,Cancelled
+ORD004878,United arab emirates,Home & Kitchen,Cancelled
+ORD006569,Canada,Electronics,Returned
+ORD002000,Australia,Books,Cancelled
+ORD008613,United States,Sports,Cancelled
+ORD001013,India,Home & Kitchen,Cancelled
+ORD003272,United arab emirates,Beauty,Returned
+ORD003734,Australia,Home & Kitchen,Returned
+ORD005866,Australia,Sports,Returned
+ORD002863,Australia,Electronics,Cancelled
+ORD004724,United States,Books,Returned
+ORD003115,United States,Books,Cancelled
+ORD007219,United Kingdom,Grocery,Returned
+ORD008981,United States,Grocery,Returned
+ORD007550,Germany,Books,Returned
+ORD005974,Canada,Beauty,Returned
+ORD005661,United States,Grocery,Returned
+ORD001529,Canada,Sports,Returned
+ORD009301,Canada,Fashion,Cancelled
+ORD005421,Australia,Home & Kitchen,Cancelled
+ORD010041,Australia,Home & Kitchen,Cancelled
+ORD011668,United States,Toys,Returned
+ORD005270,Australia,Home & Kitchen,Returned
+ORD004721,Australia,Fashion,Returned
+ORD009695,United arab emirates,Home & Kitchen,Cancelled
+ORD002134,United Kingdom,Grocery,Returned
+ORD011529,Australia,Home & Kitchen,Returned
+ORD001216,United arab emirates,Sports,Returned
+ORD003908,Germany,Sports,Returned
+ORD011339,Germany,Books,Returned
+ORD010489,Canada,Home & Kitchen,Cancelled
+ORD000672,India,Toys,Returned
+ORD008785,United States,Grocery,Cancelled
+ORD010677,United Kingdom,Beauty,Returned
+ORD000424,Australia,Sports,Cancelled
+ORD005323,United arab emirates,Fashion,Returned
+ORD001416,United arab emirates,Sports,Returned
+ORD005578,United States,Home & Kitchen,Returned
+ORD002998,United arab emirates,Beauty,Returned
+ORD001496,United Kingdom,Toys,Cancelled
+ORD010624,Germany,Books,Cancelled
+ORD004482,United arab emirates,Beauty,Returned
+ORD000073,Germany,Sports,Returned
+ORD007714,India,Home & Kitchen,Returned
+ORD000521,Canada,Grocery,Cancelled
+ORD002230,Germany,Home & Kitchen,Returned
+ORD004511,Canada,Grocery,Returned
+ORD002553,United Kingdom,Toys,Returned
+ORD010294,Germany,Grocery,Returned
+ORD006959,United Kingdom,Electronics,Cancelled
+ORD007828,Australia,Toys,Returned
+ORD001793,Germany,Beauty,Cancelled
+ORD006716,India,Electronics,Returned
+ORD006396,United arab emirates,Beauty,Returned
+ORD010380,Canada,Electronics,Returned
+ORD000992,United Kingdom,Beauty,Cancelled
+ORD011077,Australia,Fashion,Cancelled
+ORD002889,India,Beauty,Returned
+ORD004051,United Kingdom,Toys,Cancelled
+ORD011951,Australia,Sports,Cancelled
+ORD008139,United Kingdom,Fashion,Returned
+ORD006081,India,Sports,Cancelled
+ORD005966,Canada,Home & Kitchen,Cancelled
+ORD010917,United arab emirates,Toys,Cancelled
+ORD002141,Australia,Books,Returned
+ORD003402,United Kingdom,Grocery,Cancelled
+ORD005969,Canada,Grocery,Returned
+ORD008589,United States,Fashion,Returned
+ORD003575,United Kingdom,Books,Cancelled
+ORD001066,India,Books,Returned
+ORD011886,United arab emirates,Home & Kitchen,Cancelled
+ORD004693,Canada,Fashion,Returned
+ORD002917,India,Books,Cancelled
+ORD001851,United arab emirates,Beauty,Returned
+ORD002113,Canada,Beauty,Returned
+ORD001325,Australia,Books,Cancelled
+ORD007594,India,Electronics,Returned
+ORD009524,United Kingdom,Electronics,Cancelled
+ORD008611,United States,Fashion,Returned
+ORD010129,Australia,Electronics,Returned
+ORD005783,Canada,Home & Kitchen,Cancelled
+ORD000040,Australia,Toys,Returned
+ORD003467,Canada,Sports,Returned
+ORD007497,United Kingdom,Fashion,Cancelled
+ORD011869,Canada,Toys,Returned
+ORD000530,India,Fashion,Returned
+ORD009929,United Kingdom,Grocery,Returned
+ORD000900,Germany,Sports,Cancelled
+ORD002605,Australia,Home & Kitchen,Cancelled
+ORD011756,United States,Home & Kitchen,Cancelled
+ORD003845,United Kingdom,Grocery,Cancelled
+ORD004514,Germany,Beauty,Cancelled
+ORD010979,United States,Fashion,Cancelled
+ORD001017,United Kingdom,Toys,Cancelled
+ORD004816,Germany,Toys,Cancelled
+ORD001461,Canada,Electronics,Cancelled
+ORD003100,Germany,Beauty,Returned
+ORD009013,Canada,Books,Returned
+ORD003277,Canada,Fashion,Returned
+ORD000153,Canada,Electronics,Returned
+ORD006159,United arab emirates,Toys,Cancelled
+ORD004322,Australia,Electronics,Returned
+ORD000401,United Kingdom,Books,Returned
+ORD005194,United Kingdom,Toys,Cancelled
+ORD010276,United States,Books,Cancelled
+ORD000728,Germany,Electronics,Cancelled
+ORD010152,India,Electronics,Cancelled
+ORD000024,United arab emirates,Electronics,Returned
+ORD000252,Canada,Fashion,Cancelled
+ORD011040,Australia,Toys,Cancelled
+ORD007042,Canada,Home & Kitchen,Returned
+ORD002767,Canada,Fashion,Cancelled
+ORD002117,United Kingdom,Electronics,Cancelled
+ORD011378,Canada,Beauty,Returned
+ORD001382,Germany,Home & Kitchen,Returned
+ORD007971,United arab emirates,Toys,Cancelled
+ORD006878,United States,Electronics,Cancelled
+ORD000823,India,Sports,Returned
+ORD003783,Germany,Fashion,Returned
+ORD010339,Canada,Fashion,Cancelled
+ORD008664,Australia,Home & Kitchen,Cancelled
+ORD007569,Australia,Electronics,Returned
+ORD007676,United Kingdom,Grocery,Cancelled
+ORD009713,Canada,Fashion,Returned
+ORD003522,Canada,Fashion,Returned
+ORD000641,India,Electronics,Returned
+ORD007764,United States,Sports,Cancelled
+ORD004446,India,Sports,Cancelled
+ORD008456,United States,Books,Cancelled
+ORD007262,United Kingdom,Toys,Returned
+ORD009262,Australia,Grocery,Returned
+ORD007600,Canada,Beauty,Returned
+ORD008137,United States,Books,Returned
+ORD009803,United arab emirates,Grocery,Cancelled
+ORD002053,India,Home & Kitchen,Cancelled
+ORD007203,United Kingdom,Beauty,Returned
+ORD008022,United Kingdom,Books,Cancelled
+ORD002754,Canada,Sports,Cancelled
+ORD011868,Germany,Beauty,Cancelled
+ORD010747,Canada,Beauty,Cancelled
+ORD002993,Canada,Grocery,Cancelled
+ORD010299,United States,Sports,Returned
+ORD005535,United arab emirates,Home & Kitchen,Cancelled
+ORD007652,Australia,Sports,Cancelled
+ORD001118,Australia,Home & Kitchen,Returned
+ORD006564,United States,Books,Returned
+ORD009756,United Kingdom,Fashion,Returned
+ORD000578,India,Toys,Returned
+ORD000240,United States,Books,Returned
+ORD003517,United States,Books,Cancelled
+ORD000334,Australia,Fashion,Returned
+ORD007953,Germany,Sports,Returned
+ORD006351,Canada,Home & Kitchen,Cancelled
+ORD008734,Australia,Electronics,Returned
+ORD000660,United arab emirates,Fashion,Returned
+ORD011279,United States,Fashion,Cancelled
+ORD005492,Germany,Fashion,Cancelled
+ORD010009,Canada,Grocery,Returned
+ORD002897,United Kingdom,Electronics,Returned
+ORD009237,Australia,Books,Cancelled
+ORD004072,Germany,Home & Kitchen,Returned
+ORD007796,United arab emirates,Home & Kitchen,Cancelled
+ORD007310,Germany,Beauty,Returned
+ORD005724,United Kingdom,Books,Returned
+ORD011083,India,Electronics,Cancelled
+ORD005800,Canada,Books,Returned
+ORD002807,India,Beauty,Cancelled
+ORD002296,United arab emirates,Grocery,Cancelled
+ORD006538,India,Fashion,Returned
+ORD010351,United States,Home & Kitchen,Cancelled
+ORD003169,India,Electronics,Returned
+ORD007970,Canada,Toys,Cancelled
+ORD010462,Canada,Books,Cancelled
+ORD003252,United Kingdom,Books,Cancelled
+ORD010485,Germany,Grocery,Cancelled
+ORD005360,Canada,Grocery,Cancelled
+ORD006945,India,Beauty,Returned
+ORD009360,United arab emirates,Beauty,Cancelled
+ORD006823,Canada,Electronics,Cancelled
+ORD010862,India,Electronics,Cancelled
+ORD001735,United Kingdom,Fashion,Returned
+ORD011137,United arab emirates,Electronics,Cancelled
+ORD000507,United arab emirates,Beauty,Returned
+ORD009035,United Kingdom,Toys,Returned
+ORD002300,United arab emirates,Beauty,Returned
+ORD002970,India,Home & Kitchen,Cancelled
+ORD004916,Australia,Beauty,Returned
+ORD008325,India,Books,Returned
+ORD008055,United States,Fashion,Returned
+ORD005707,India,Beauty,Returned
+ORD004969,India,Home & Kitchen,Returned
+ORD007271,Australia,Grocery,Returned
+ORD002612,United States,Grocery,Returned
+ORD011404,Australia,Beauty,Returned
+ORD004215,Australia,Beauty,Returned
+ORD002371,United Kingdom,Books,Returned
+ORD010567,Australia,Sports,Cancelled
+ORD006045,United Kingdom,Toys,Cancelled
+ORD003379,United arab emirates,Books,Returned
+ORD011008,United States,Sports,Returned
+ORD003774,United Kingdom,Books,Cancelled
+ORD005808,Germany,Sports,Cancelled
+ORD011898,United arab emirates,Sports,Cancelled
+ORD002178,United arab emirates,Books,Returned
+ORD008957,Germany,Books,Cancelled
+ORD007643,United arab emirates,Toys,Returned
+ORD004607,Australia,Fashion,Returned
+ORD006161,United States,Electronics,Returned
+ORD009759,Germany,Fashion,Returned
+ORD004872,United States,Toys,Cancelled
+ORD007243,United arab emirates,Grocery,Cancelled
+ORD009916,Germany,Fashion,Cancelled
+ORD006047,United arab emirates,Beauty,Cancelled
+ORD009350,Germany,Toys,Cancelled
+ORD006304,United States,Electronics,Returned
+ORD002266,United arab emirates,Electronics,Cancelled
+ORD006405,Germany,Sports,Cancelled
+ORD002025,Germany,Beauty,Cancelled
+ORD005150,United arab emirates,Toys,Returned
+ORD000791,Germany,Sports,Returned
+ORD001024,India,Electronics,Cancelled
+ORD005542,Germany,Beauty,Cancelled
+ORD001990,Canada,Beauty,Returned
+ORD011178,United arab emirates,Fashion,Returned
+ORD005155,Australia,Fashion,Cancelled
+ORD005382,Germany,Toys,Cancelled
+ORD008479,United Kingdom,Sports,Cancelled
+ORD005275,United arab emirates,Grocery,Returned
+ORD006471,United States,Fashion,Cancelled
+ORD000905,United States,Toys,Returned
+ORD001883,India,Grocery,Cancelled
+ORD001712,United Kingdom,Sports,Cancelled
+ORD007982,Germany,Grocery,Cancelled
+ORD007072,India,Sports,Cancelled
+ORD001831,Germany,Home & Kitchen,Returned
+ORD010974,Australia,Grocery,Cancelled
+ORD007880,Canada,Fashion,Cancelled
+ORD011965,Australia,Electronics,Cancelled
+ORD002570,Germany,Fashion,Cancelled
+ORD009152,United arab emirates,Home & Kitchen,Returned
+ORD001105,Australia,Books,Cancelled
+ORD007893,Germany,Beauty,Returned
+ORD003012,United Kingdom,Electronics,Cancelled
+ORD008869,India,Books,Cancelled
+ORD000305,India,Home & Kitchen,Returned
+ORD008032,Australia,Sports,Cancelled
+ORD002092,Australia,Fashion,Cancelled
+ORD002118,Australia,Toys,Cancelled
+ORD000624,United Kingdom,Electronics,Returned
+ORD007078,Canada,Toys,Returned
+ORD005643,Australia,Books,Cancelled
+ORD004120,Germany,Sports,Cancelled
+ORD003218,Australia,Fashion,Cancelled
+ORD009102,United Kingdom,Fashion,Cancelled
+ORD011070,Australia,Books,Cancelled
+ORD011461,Australia,Beauty,Returned
+ORD010139,Australia,Beauty,Returned
+ORD009952,United Kingdom,Grocery,Cancelled
+ORD004137,Australia,Toys,Returned
+ORD006548,United arab emirates,Books,Cancelled
+ORD004946,Germany,Grocery,Returned
+ORD006551,India,Fashion,Cancelled
+ORD003626,Canada,Beauty,Returned
+ORD009327,India,Electronics,Returned
+ORD008313,India,Beauty,Cancelled
+ORD011238,Canada,Toys,Returned
+ORD000850,India,Fashion,Cancelled
+ORD004646,India,Home & Kitchen,Cancelled
+ORD002168,United arab emirates,Electronics,Returned
+ORD003532,Australia,Grocery,Cancelled
+ORD006271,Canada,Toys,Returned
+ORD009938,United arab emirates,Home & Kitchen,Cancelled
+ORD010220,United Kingdom,Toys,Returned
+ORD004091,United arab emirates,Home & Kitchen,Returned
+ORD008755,Germany,Books,Returned
+ORD004984,Australia,Beauty,Returned
+ORD007108,United Kingdom,Grocery,Cancelled
+ORD001547,Canada,Toys,Returned
+ORD003787,Canada,Beauty,Cancelled
+ORD001592,Australia,Books,Returned
+ORD010000,Canada,Home & Kitchen,Cancelled
+ORD010852,Canada,Grocery,Cancelled
+ORD011835,United Kingdom,Toys,Cancelled
+ORD006292,Canada,Beauty,Returned
+ORD008080,India,Home & Kitchen,Cancelled
+ORD005038,United arab emirates,Home & Kitchen,Returned
+ORD009170,United States,Books,Cancelled
+ORD008326,Canada,Grocery,Returned
+ORD007340,United Kingdom,Fashion,Returned
+ORD005884,United States,Fashion,Returned
+ORD007715,Germany,Fashion,Cancelled
+ORD005982,United arab emirates,Electronics,Returned
+ORD010048,Canada,Books,Cancelled
+ORD004523,United States,Sports,Cancelled
+ORD009789,Germany,Toys,Cancelled
+ORD000206,India,Books,Cancelled
+ORD008572,United Kingdom,Toys,Cancelled
+ORD006992,India,Electronics,Returned
+ORD011067,United States,Toys,Cancelled
+ORD001569,United arab emirates,Fashion,Cancelled
+ORD010934,United Kingdom,Toys,Cancelled
+ORD009755,United Kingdom,Electronics,Returned
+ORD003466,Australia,Books,Cancelled
+ORD007999,Australia,Electronics,Cancelled
+ORD010576,United States,Beauty,Cancelled
+ORD007673,United arab emirates,Toys,Cancelled
+ORD003863,United Kingdom,Sports,Returned
+ORD009751,India,Beauty,Cancelled
+ORD008717,India,Sports,Cancelled
+ORD004552,United arab emirates,Books,Cancelled
+ORD002870,Canada,Home & Kitchen,Cancelled
+ORD007052,Australia,Beauty,Returned
+ORD010445,Canada,Books,Cancelled
+ORD005077,India,Sports,Cancelled
+ORD002952,Germany,Sports,Returned
+ORD002703,United arab emirates,Grocery,Cancelled
+ORD003091,India,Books,Returned
+ORD008221,Canada,Toys,Cancelled
+ORD011160,Canada,Electronics,Cancelled
+ORD003523,Australia,Fashion,Cancelled
+ORD000406,Australia,Fashion,Returned
+ORD009950,United arab emirates,Home & Kitchen,Returned
+ORD008254,United States,Sports,Returned
+ORD002392,United States,Grocery,Cancelled
+ORD002547,Germany,Fashion,Cancelled
+ORD008408,Germany,Beauty,Cancelled
+ORD011791,Australia,Sports,Cancelled
+ORD003306,Australia,Books,Returned
+ORD005836,India,Beauty,Cancelled
+ORD000585,United States,Beauty,Cancelled
+ORD008804,United States,Grocery,Returned
+ORD002451,Canada,Beauty,Cancelled
+ORD001037,Australia,Grocery,Returned
+ORD009476,India,Sports,Cancelled
+ORD005353,United States,Grocery,Cancelled
+ORD000794,United States,Beauty,Cancelled
+ORD007161,India,Grocery,Cancelled
+ORD000787,Germany,Electronics,Returned
+ORD001684,United States,Home & Kitchen,Cancelled
+ORD006785,India,Toys,Returned
+ORD007485,United Kingdom,Beauty,Cancelled
+ORD009535,Australia,Sports,Cancelled
+ORD006643,Germany,Toys,Returned
+ORD003543,Germany,Home & Kitchen,Cancelled
+ORD003952,United arab emirates,Grocery,Returned
+ORD008305,Australia,Fashion,Cancelled
+ORD007061,United States,Toys,Cancelled
+ORD009094,Canada,Electronics,Returned
+ORD004495,Canada,Beauty,Returned
+ORD003736,United Kingdom,Beauty,Returned
+ORD002962,Germany,Home & Kitchen,Cancelled
+ORD008285,Canada,Books,Cancelled
+ORD010821,India,Beauty,Returned
+ORD003482,United Kingdom,Grocery,Returned
+ORD004414,Germany,Sports,Returned
+ORD006938,United arab emirates,Grocery,Returned
+ORD005880,Canada,Sports,Cancelled
+ORD006821,United States,Toys,Returned
+ORD007455,United Kingdom,Toys,Cancelled
+ORD009054,India,Electronics,Returned
+ORD003673,United arab emirates,Home & Kitchen,Cancelled
+ORD002796,Australia,Grocery,Cancelled
+ORD000559,United States,Home & Kitchen,Returned
+ORD008065,Canada,Beauty,Cancelled
+ORD006652,India,Beauty,Cancelled
+ORD011977,Australia,Books,Cancelled
+ORD004608,United Kingdom,Sports,Cancelled
+ORD011443,United States,Electronics,Returned
+ORD002453,Germany,Grocery,Returned
+ORD008087,India,Fashion,Cancelled
+ORD008744,Germany,Fashion,Cancelled
+ORD009975,United States,Toys,Cancelled
+ORD000023,Canada,Grocery,Cancelled
+ORD008860,United arab emirates,Home & Kitchen,Cancelled
+ORD008551,India,Home & Kitchen,Returned
+ORD003653,India,Home & Kitchen,Returned
+ORD003850,India,Toys,Returned
+ORD003352,Australia,Home & Kitchen,Cancelled
+ORD000682,United Kingdom,Toys,Cancelled
+ORD010819,Germany,Books,Cancelled
+ORD004276,United arab emirates,Toys,Cancelled
+ORD002019,United Kingdom,Sports,Returned
+ORD004658,United States,Grocery,Cancelled
+ORD010283,Canada,Grocery,Returned
+ORD010665,Canada,Grocery,Cancelled
+ORD005703,Canada,Electronics,Cancelled
+ORD004178,Germany,Home & Kitchen,Returned
+ORD010378,United Kingdom,Grocery,Cancelled
+ORD007229,United Kingdom,Fashion,Cancelled
+ORD004290,United States,Toys,Returned
+ORD010951,Germany,Beauty,Returned
+ORD011760,United arab emirates,Books,Returned
+ORD006274,Germany,Books,Returned
+ORD000006,Canada,Grocery,Returned
+ORD010312,India,Toys,Cancelled
+ORD003977,Australia,Toys,Cancelled
+ORD000571,United Kingdom,Fashion,Cancelled
+ORD008579,Australia,Electronics,Cancelled
+ORD001423,Canada,Beauty,Cancelled
+ORD011784,United arab emirates,Fashion,Cancelled
+ORD002965,Canada,Fashion,Cancelled
+ORD008205,United States,Books,Returned
+ORD005491,Germany,Toys,Returned
+ORD002688,India,Beauty,Cancelled
+ORD007087,Germany,Sports,Cancelled
+ORD011948,United States,Home & Kitchen,Cancelled
+ORD009917,United States,Beauty,Cancelled
+ORD003833,Australia,Toys,Cancelled
+ORD007615,Germany,Electronics,Returned
+ORD009971,India,Electronics,Cancelled
+ORD001847,Australia,Electronics,Cancelled
+ORD008356,Germany,Sports,Cancelled
+ORD000895,Canada,Electronics,Returned
+ORD008535,Australia,Fashion,Cancelled
+ORD005798,India,Electronics,Returned
+ORD000428,Australia,Grocery,Cancelled
+ORD006424,United Kingdom,Beauty,Cancelled
+ORD011448,United States,Grocery,Returned
+ORD006374,Germany,Beauty,Cancelled
+ORD006857,Canada,Home & Kitchen,Cancelled
+ORD002714,Germany,Beauty,Cancelled
+ORD011152,Canada,Home & Kitchen,Cancelled
+ORD009838,Germany,Home & Kitchen,Returned
+ORD007054,United Kingdom,Electronics,Returned
+ORD009687,Australia,Grocery,Returned
+ORD003600,United arab emirates,Fashion,Cancelled
+ORD000052,India,Books,Cancelled
+ORD005173,Canada,Home & Kitchen,Returned
+ORD011572,Australia,Home & Kitchen,Cancelled
+ORD005624,Australia,Sports,Cancelled
+ORD002973,India,Grocery,Returned
+ORD007383,Canada,Books,Cancelled
+ORD002185,United States,Electronics,Returned
+ORD008321,United States,Fashion,Cancelled
+ORD000089,United arab emirates,Beauty,Cancelled
+ORD008506,United Kingdom,Electronics,Returned
+ORD001620,India,Toys,Cancelled
+ORD010147,United Kingdom,Books,Returned
+ORD011509,Germany,Toys,Cancelled
+ORD006641,United Kingdom,Fashion,Returned
+ORD003246,Australia,Grocery,Returned
+ORD004273,India,Books,Returned
+ORD003325,United Kingdom,Grocery,Cancelled
+ORD010809,United Kingdom,Grocery,Returned
+ORD010181,United Kingdom,Home & Kitchen,Cancelled
+ORD010651,United arab emirates,Fashion,Returned
+ORD006147,Germany,Sports,Cancelled
+ORD011642,United Kingdom,Sports,Returned
+ORD001007,Australia,Electronics,Cancelled
+ORD007315,Australia,Toys,Cancelled
+ORD003848,Canada,Fashion,Returned
+ORD010731,India,Sports,Cancelled
+ORD005687,Germany,Toys,Cancelled
+ORD009379,United Kingdom,Books,Returned
+ORD000988,United Kingdom,Sports,Returned
+ORD007237,Canada,Books,Cancelled
+ORD007805,United Kingdom,Sports,Returned
+ORD003536,United arab emirates,Home & Kitchen,Cancelled
+ORD004157,Canada,Toys,Cancelled
+ORD004054,Germany,Electronics,Cancelled
+ORD003949,India,Books,Returned
+ORD002831,India,Books,Returned
+ORD008766,United arab emirates,Toys,Cancelled
+ORD002337,Germany,Electronics,Returned
+ORD006746,India,Toys,Cancelled
+ORD011266,United States,Beauty,Returned
+ORD005253,United Kingdom,Home & Kitchen,Cancelled
+ORD003159,United arab emirates,Fashion,Returned
+ORD011434,India,Sports,Returned
+ORD004641,India,Home & Kitchen,Returned
+ORD009314,United Kingdom,Home & Kitchen,Returned
+ORD006699,United arab emirates,Beauty,Cancelled
+ORD003371,Germany,Sports,Cancelled
+ORD008136,Australia,Toys,Returned
+ORD004179,India,Electronics,Cancelled
+ORD003755,India,Books,Returned
+ORD005225,Australia,Fashion,Cancelled
+ORD006674,United States,Grocery,Returned
+ORD011174,United Kingdom,Fashion,Returned
+ORD004513,Canada,Beauty,Returned
+ORD009272,India,Books,Cancelled
+ORD008537,India,Sports,Returned
+ORD007749,Germany,Books,Cancelled
+ORD001257,Germany,Sports,Cancelled
+ORD008188,United States,Books,Cancelled
+ORD003134,United arab emirates,Sports,Cancelled
+ORD001790,United arab emirates,Electronics,Returned
+ORD006733,United States,Sports,Cancelled
+ORD009660,India,Sports,Cancelled
+ORD011187,India,Home & Kitchen,Cancelled
+ORD002265,United arab emirates,Toys,Returned
+ORD009283,United Kingdom,Fashion,Cancelled
+ORD004841,United arab emirates,Grocery,Cancelled
+ORD008870,India,Fashion,Cancelled
+ORD004935,Australia,Beauty,Cancelled
+ORD010842,United States,Electronics,Cancelled
+ORD001683,United arab emirates,Electronics,Returned
+ORD010702,India,Electronics,Cancelled
+ORD011014,Germany,Grocery,Cancelled
+ORD001618,United Kingdom,Fashion,Returned
+ORD004583,Canada,Toys,Cancelled
+ORD002137,Australia,Toys,Returned
+ORD001380,Germany,Beauty,Cancelled
+ORD009669,United Kingdom,Electronics,Cancelled
+ORD004336,Germany,Electronics,Returned
+ORD007463,United arab emirates,Grocery,Returned
+ORD007672,India,Toys,Returned
+ORD007635,United States,Fashion,Returned
+ORD004554,United States,Sports,Cancelled
+ORD010715,Germany,Fashion,Cancelled
+ORD003541,United Kingdom,Electronics,Cancelled
+ORD010637,India,Toys,Returned
+ORD011111,Canada,Electronics,Cancelled
+ORD005835,Australia,Grocery,Cancelled
+ORD006116,United Kingdom,Home & Kitchen,Cancelled
+ORD010384,United States,Toys,Returned
+ORD008908,United arab emirates,Books,Returned
+ORD009731,United States,Electronics,Returned
+ORD000823,India,Sports,Returned
+ORD009991,India,Sports,Cancelled
+ORD001396,Australia,Fashion,Returned
+ORD004325,Australia,Grocery,Returned
+ORD002664,Germany,Books,Cancelled
+ORD011762,United arab emirates,Home & Kitchen,Returned
+ORD003707,United States,Home & Kitchen,Cancelled
+ORD007451,Germany,Beauty,Cancelled
+ORD008269,United arab emirates,Home & Kitchen,Returned
+ORD007208,Australia,Fashion,Returned
+ORD011486,Canada,Beauty,Returned
+ORD010877,United States,Electronics,Cancelled
+ORD000183,Germany,Electronics,Returned
+ORD001951,Australia,Fashion,Returned
+ORD011303,Germany,Fashion,Cancelled
+ORD007328,Germany,Beauty,Cancelled
+ORD006716,India,Electronics,Returned
+ORD002584,United arab emirates,Electronics,Cancelled
+ORD007734,Australia,Electronics,Returned
+ORD011628,Australia,Grocery,Cancelled
+ORD005779,India,Grocery,Cancelled
+ORD006758,Germany,Sports,Cancelled
+ORD005851,Australia,Grocery,Returned
+ORD007868,United States,Grocery,Returned
+ORD000684,Australia,Books,Cancelled
+ORD011439,United States,Books,Returned
+ORD001219,United Kingdom,Grocery,Returned
+ORD007656,Australia,Books,Cancelled
+ORD006802,Australia,Fashion,Returned
+ORD011365,Germany,Fashion,Cancelled
+ORD003858,United States,Grocery,Cancelled
+ORD001576,Australia,Fashion,Returned
+ORD006258,United Kingdom,Fashion,Cancelled
+ORD006686,Canada,Books,Cancelled
+ORD005267,United Kingdom,Electronics,Returned
+ORD006599,United States,Grocery,Returned
+ORD005647,Germany,Electronics,Returned
+ORD002347,Canada,Beauty,Returned
+ORD004654,United States,Electronics,Cancelled
+ORD002026,Germany,Grocery,Returned
+ORD007004,United arab emirates,Books,Returned
+ORD005865,United Kingdom,Fashion,Returned
+ORD009797,United Kingdom,Sports,Returned
+ORD009293,Germany,Toys,Cancelled
+ORD000358,Canada,Electronics,Returned
+ORD003062,United arab emirates,Home & Kitchen,Returned
+ORD000362,United arab emirates,Grocery,Returned
+ORD001222,Australia,Toys,Returned
+ORD009531,Canada,Home & Kitchen,Returned
+ORD002482,United Kingdom,Home & Kitchen,Cancelled
+ORD003073,United arab emirates,Electronics,Cancelled
+ORD004999,Canada,Books,Cancelled
+ORD007589,United arab emirates,Toys,Returned
+ORD002128,India,Books,Returned
+ORD006421,India,Electronics,Cancelled
+ORD003358,Canada,Grocery,Returned
+ORD004069,Australia,Books,Cancelled
+ORD004744,Canada,Beauty,Cancelled
+ORD011931,United Kingdom,Grocery,Cancelled
+ORD002920,India,Sports,Returned
+ORD006098,United Kingdom,Fashion,Cancelled
+ORD008434,Germany,Fashion,Cancelled
+ORD004408,United States,Electronics,Returned
+ORD006053,Germany,Fashion,Returned
+ORD010963,Germany,Home & Kitchen,Cancelled
+ORD005665,Canada,Books,Returned
+ORD006224,United Kingdom,Home & Kitchen,Cancelled
+ORD001420,Canada,Home & Kitchen,Cancelled
+ORD010812,India,Beauty,Cancelled
+ORD004307,Canada,Sports,Cancelled
+ORD001021,United States,Electronics,Returned
+ORD003622,Canada,Beauty,Returned
+ORD004037,Australia,Electronics,Returned
+ORD002312,United States,Fashion,Returned
+ORD000130,Australia,Sports,Cancelled
+ORD005923,Australia,Toys,Cancelled
+ORD003967,Germany,Books,Returned
+ORD010203,United arab emirates,Electronics,Returned
+ORD006380,United arab emirates,Electronics,Cancelled
+ORD011928,Germany,Books,Cancelled
+ORD000824,Canada,Toys,Cancelled
+ORD009066,Canada,Sports,Returned
+ORD007964,United Kingdom,Toys,Returned
+ORD010900,United arab emirates,Home & Kitchen,Cancelled
+ORD004122,India,Beauty,Cancelled
+ORD009049,Canada,Fashion,Cancelled
+ORD010618,United States,Toys,Cancelled
+ORD000118,Canada,Fashion,Returned
+ORD001742,Canada,Electronics,Cancelled
+ORD006722,Canada,Books,Cancelled
+ORD003471,India,Sports,Cancelled
+ORD009270,United arab emirates,Fashion,Cancelled
+ORD011745,Australia,Home & Kitchen,Cancelled
+ORD000525,United States,Fashion,Cancelled
+ORD010652,United States,Home & Kitchen,Returned
+ORD011399,United Kingdom,Sports,Returned
+ORD000845,Germany,Home & Kitchen,Cancelled
+ORD006859,Canada,Beauty,Returned
+ORD007950,United Kingdom,Beauty,Cancelled
+ORD008991,United arab emirates,Beauty,Cancelled
+ORD009396,United States,Grocery,Cancelled
+ORD007511,Germany,Sports,Cancelled
+ORD010432,United arab emirates,Books,Returned
+ORD009718,United arab emirates,Home & Kitchen,Cancelled
+ORD003516,United Kingdom,Books,Returned
+ORD000616,United States,Fashion,Cancelled
+ORD011518,Australia,Home & Kitchen,Cancelled
+ORD000978,Germany,Toys,Returned
+ORD010952,United States,Toys,Returned
+ORD007091,Canada,Home & Kitchen,Cancelled
+ORD003377,United States,Sports,Returned
+ORD008441,United States,Home & Kitchen,Returned
+ORD004642,United States,Toys,Cancelled
+ORD003181,India,Sports,Cancelled
+ORD007930,India,Sports,Returned
+ORD002662,United States,Sports,Returned
+ORD000785,Australia,Electronics,Cancelled
+ORD011944,India,Home & Kitchen,Returned
+ORD006989,United arab emirates,Beauty,Cancelled
+ORD001970,India,Books,Cancelled
+ORD011220,United Kingdom,Books,Returned
+ORD011222,United States,Toys,Returned
+ORD005290,Australia,Sports,Returned
+ORD008723,India,Electronics,Returned
+ORD000501,Germany,Home & Kitchen,Cancelled
+ORD010364,United Kingdom,Grocery,Returned
+ORD009670,Australia,Home & Kitchen,Returned
+ORD006586,United States,Beauty,Returned
+ORD002740,United States,Beauty,Cancelled
+ORD001020,Canada,Books,Cancelled
+ORD002069,Germany,Books,Cancelled
+ORD011917,United arab emirates,Grocery,Returned
+ORD011175,India,Home & Kitchen,Returned
+ORD002026,Germany,Grocery,Returned
+ORD010172,United arab emirates,Sports,Cancelled
+ORD002764,Australia,Beauty,Cancelled
+ORD001998,Australia,Beauty,Cancelled
+ORD003337,Australia,Toys,Returned
+ORD006622,United arab emirates,Fashion,Returned
+ORD002946,United arab emirates,Grocery,Cancelled
+ORD010917,United arab emirates,Toys,Cancelled
+ORD006104,United arab emirates,Fashion,Returned
+ORD003747,Canada,Books,Cancelled
+ORD006620,United States,Sports,Cancelled
+ORD004173,Germany,Sports,Returned
+ORD009441,Australia,Grocery,Cancelled
+ORD006929,Germany,Electronics,Returned
+ORD011579,Canada,Toys,Returned
+ORD002091,India,Grocery,Returned
+ORD001042,Canada,Grocery,Returned
+ORD004454,India,Toys,Cancelled
+ORD004174,United Kingdom,Beauty,Returned
+ORD004758,Australia,Sports,Returned
+ORD011763,India,Electronics,Cancelled
+ORD000908,Canada,Toys,Returned
+ORD010921,United arab emirates,Home & Kitchen,Returned
+ORD009988,United States,Beauty,Cancelled
+ORD002921,United States,Grocery,Returned
+ORD001483,United States,Fashion,Cancelled
+ORD011212,India,Beauty,Returned
+ORD004731,United Kingdom,Home & Kitchen,Cancelled
+ORD007991,Canada,Sports,Cancelled
+ORD003098,India,Home & Kitchen,Cancelled
+ORD001868,Germany,Beauty,Returned
+ORD000875,United States,Grocery,Returned
+ORD003927,Germany,Beauty,Returned
+ORD002426,India,Books,Returned
+ORD004695,United arab emirates,Beauty,Cancelled
+ORD010815,India,Grocery,Returned
+ORD005001,India,Home & Kitchen,Cancelled
+ORD001520,India,Toys,Returned
+ORD004981,United States,Books,Returned
+ORD004597,United States,Grocery,Cancelled
+ORD003690,Germany,Home & Kitchen,Returned
+ORD006889,United arab emirates,Beauty,Cancelled
+ORD008391,United Kingdom,Sports,Returned
+ORD003884,Germany,Fashion,Cancelled
+ORD003739,Germany,Electronics,Cancelled
+ORD010635,United arab emirates,Sports,Returned
+ORD001624,United arab emirates,Grocery,Cancelled
+ORD001147,United States,Home & Kitchen,Returned
+ORD005028,United arab emirates,Electronics,Cancelled
+ORD009192,Australia,Books,Returned
+ORD001711,United States,Grocery,Returned
+ORD009784,United Kingdom,Home & Kitchen,Returned
+ORD008089,India,Home & Kitchen,Returned
+ORD004024,Germany,Beauty,Cancelled
+ORD009190,United Kingdom,Grocery,Returned
+ORD007309,India,Toys,Returned
+ORD005046,United arab emirates,Beauty,Cancelled
+ORD004202,India,Toys,Cancelled
+ORD003149,India,Beauty,Cancelled
+ORD005036,Australia,Fashion,Cancelled
+ORD004988,Canada,Home & Kitchen,Returned
+ORD008539,Australia,Grocery,Cancelled
+ORD010001,India,Fashion,Cancelled
+ORD010855,Canada,Grocery,Returned
+ORD005319,Germany,Grocery,Cancelled
+ORD011239,Germany,Electronics,Cancelled
+ORD008174,India,Electronics,Cancelled
+ORD009083,Germany,Grocery,Cancelled
+ORD001092,Germany,Home & Kitchen,Cancelled
+ORD000158,United Kingdom,Books,Returned
+ORD008144,United arab emirates,Fashion,Returned
+ORD011035,United Kingdom,Books,Cancelled
+ORD005986,Germany,Home & Kitchen,Cancelled
+ORD001637,United arab emirates,Toys,Returned
+ORD010792,Canada,Home & Kitchen,Cancelled
+ORD011684,Germany,Fashion,Returned
+ORD001341,United Kingdom,Books,Returned
+ORD003269,United States,Sports,Cancelled
+ORD009835,Canada,Home & Kitchen,Returned
+ORD000162,Germany,Books,Returned
+ORD005606,Australia,Sports,Cancelled
+ORD009767,Australia,Toys,Cancelled
+ORD000570,Germany,Grocery,Cancelled
+ORD005684,United arab emirates,Toys,Cancelled
+ORD006688,Australia,Home & Kitchen,Cancelled
+ORD008441,United States,Home & Kitchen,Returned
+ORD005473,United States,Fashion,Returned
+ORD006876,Germany,Toys,Returned
+ORD009517,United States,Toys,Cancelled
+ORD004962,United Kingdom,Grocery,Cancelled
+ORD009673,United Kingdom,Home & Kitchen,Returned
+ORD007807,United States,Electronics,Returned
+ORD003339,United arab emirates,Toys,Cancelled
+ORD004849,United Kingdom,Beauty,Cancelled
+ORD007233,Australia,Electronics,Cancelled
+ORD000328,United Kingdom,Home & Kitchen,Returned
+ORD000316,Germany,Electronics,Cancelled
+ORD003320,Australia,Sports,Returned
+ORD010613,Canada,Toys,Cancelled
+ORD001268,Canada,Fashion,Cancelled
+ORD007570,Canada,Home & Kitchen,Returned
+ORD006978,India,Fashion,Cancelled
+ORD011667,Australia,Sports,Returned
+ORD005897,Canada,Grocery,Cancelled
+ORD010753,United States,Sports,Cancelled
+ORD000655,United arab emirates,Electronics,Returned
+ORD003725,United Kingdom,Home & Kitchen,Cancelled
+ORD008625,Australia,Sports,Cancelled
+ORD007205,Canada,Electronics,Cancelled
+ORD007635,United States,Fashion,Returned
+ORD003627,India,Sports,Returned
+ORD000318,India,Toys,Returned
+ORD004641,India,Home & Kitchen,Returned
+ORD001150,United arab emirates,Fashion,Cancelled
+ORD008334,United States,Electronics,Cancelled
+ORD000766,India,Books,Cancelled
+ORD008155,India,Fashion,Cancelled
+ORD008602,Australia,Toys,Cancelled
+ORD007104,Australia,Home & Kitchen,Cancelled
+ORD000884,India,Sports,Returned
+ORD011106,United States,Sports,Cancelled
+ORD005164,Australia,Sports,Cancelled
+ORD000084,India,Fashion,Returned
+ORD004233,United States,Grocery,Returned
+ORD009092,Germany,Toys,Returned
+ORD005361,United arab emirates,Toys,Cancelled
+ORD011551,India,Books,Cancelled
+ORD005893,United arab emirates,Home & Kitchen,Cancelled
+ORD008501,Germany,Electronics,Cancelled
+ORD004720,United States,Sports,Returned
+ORD007567,Australia,Home & Kitchen,Cancelled
+ORD004896,Canada,Sports,Returned
+ORD009694,Germany,Electronics,Cancelled
+ORD010409,United States,Beauty,Returned
+ORD007784,India,Fashion,Cancelled
+ORD003525,Australia,Electronics,Returned
+ORD000213,Germany,Home & Kitchen,Returned
+ORD000042,Germany,Books,Returned
+ORD011678,Australia,Sports,Returned
+ORD000999,United Kingdom,Home & Kitchen,Cancelled
+ORD011024,Germany,Toys,Cancelled
+ORD003187,United States,Electronics,Returned
+ORD004183,United Kingdom,Home & Kitchen,Returned
+ORD007062,Germany,Fashion,Cancelled
+ORD006954,United States,Fashion,Cancelled
+ORD002388,India,Sports,Returned
+ORD001544,United States,Toys,Returned
+ORD001090,India,Sports,Cancelled
+ORD008122,Canada,Sports,Cancelled
+ORD006267,Australia,Beauty,Cancelled
+ORD007629,Germany,Toys,Returned
+ORD011442,India,Books,Cancelled
+ORD003956,United Kingdom,Books,Returned
+ORD008245,Germany,Fashion,Cancelled
+ORD008985,Germany,Electronics,Cancelled
+ORD001533,Germany,Beauty,Returned
+ORD009027,Germany,Sports,Returned
+ORD011437,United arab emirates,Sports,Cancelled
+ORD006344,Australia,Beauty,Returned
+ORD006242,United States,Books,Returned
+ORD005211,Germany,Fashion,Cancelled
+ORD010816,United States,Beauty,Cancelled
+ORD005114,Canada,Grocery,Returned
+ORD003300,Australia,Home & Kitchen,Returned
+ORD002152,United States,Books,Cancelled
+ORD009680,Australia,Toys,Cancelled
+ORD006803,United arab emirates,Books,Returned
+ORD008505,United Kingdom,Home & Kitchen,Cancelled
+ORD010100,Germany,Books,Returned
+ORD008090,United States,Toys,Returned
+ORD002647,United States,Grocery,Returned
+ORD005919,Australia,Home & Kitchen,Cancelled
+ORD001168,United States,Electronics,Cancelled
+ORD011996,India,Beauty,Cancelled
+ORD005388,United Kingdom,Fashion,Returned
+ORD003973,United States,Grocery,Returned
+ORD003160,United arab emirates,Electronics,Cancelled
+ORD011354,United States,Fashion,Returned
+ORD000249,India,Books,Returned
+ORD004296,United arab emirates,Books,Returned
+ORD009573,United States,Electronics,Cancelled
+ORD001500,Australia,Fashion,Cancelled
+ORD004359,India,Home & Kitchen,Returned
+ORD003315,United States,Toys,Cancelled
+ORD011063,India,Books,Returned
+ORD004305,Canada,Home & Kitchen,Cancelled
+ORD006352,United States,Beauty,Returned
+ORD011054,United States,Home & Kitchen,Returned
+ORD009442,Australia,Toys,Cancelled
+ORD007769,United arab emirates,Fashion,Returned
+ORD008765,United Kingdom,Beauty,Cancelled
+ORD010414,Canada,Grocery,Cancelled
+ORD008183,Australia,Fashion,Returned
+ORD007235,Germany,Beauty,Cancelled
+ORD009887,Canada,Toys,Returned
+ORD001853,Germany,Beauty,Returned
+ORD001152,United arab emirates,Home & Kitchen,Returned
+ORD007406,Australia,Sports,Cancelled
+ORD005476,India,Home & Kitchen,Cancelled
+ORD005589,Germany,Beauty,Cancelled
+ORD008595,Germany,Toys,Returned
+ORD009929,United Kingdom,Grocery,Returned
+ORD003666,Canada,Home & Kitchen,Cancelled
+ORD009461,United Kingdom,Sports,Returned
+ORD011110,Canada,Beauty,Returned
+ORD001443,Germany,Electronics,Returned
+ORD010493,Australia,Beauty,Cancelled
+ORD008677,Germany,Sports,Returned
+ORD007808,United arab emirates,Home & Kitchen,Cancelled
+ORD001121,United arab emirates,Electronics,Cancelled
+ORD002117,United Kingdom,Electronics,Cancelled
+ORD006176,United Kingdom,Sports,Cancelled
+ORD008165,Australia,Toys,Returned
+ORD003322,United arab emirates,Fashion,Returned
+ORD003902,Australia,Sports,Cancelled
+ORD011495,United States,Sports,Cancelled
+ORD005928,Germany,Books,Cancelled
+ORD004132,India,Electronics,Cancelled
+ORD001362,United Kingdom,Sports,Cancelled
+ORD005738,Australia,Beauty,Returned
+ORD005611,United Kingdom,Home & Kitchen,Returned
+ORD010996,United arab emirates,Sports,Cancelled
+ORD001402,United States,Books,Returned
+ORD006185,United Kingdom,Electronics,Cancelled
+ORD000354,Canada,Fashion,Returned
+ORD001755,United arab emirates,Beauty,Cancelled
+ORD002099,India,Electronics,Cancelled
+ORD005484,India,Grocery,Cancelled
+ORD010661,United Kingdom,Toys,Returned
+ORD005577,United Kingdom,Sports,Cancelled
+ORD004418,India,Books,Returned
+ORD010883,United Kingdom,Sports,Returned
+ORD010250,United States,Sports,Returned
+ORD002622,United Kingdom,Sports,Cancelled
+ORD003106,Australia,Sports,Cancelled
+ORD004626,India,Sports,Cancelled
+ORD010273,India,Sports,Cancelled
+ORD011999,United Kingdom,Books,Cancelled
+ORD009048,United Kingdom,Sports,Returned
+ORD004192,Germany,Fashion,Returned
+ORD002012,Germany,Books,Cancelled
+ORD010572,United States,Toys,Cancelled
+ORD010252,United arab emirates,Grocery,Returned
+ORD005573,United States,Fashion,Cancelled
+ORD010310,United Kingdom,Fashion,Cancelled
+ORD009275,Australia,Books,Cancelled
+ORD009407,Germany,Toys,Cancelled
+ORD001177,United arab emirates,Grocery,Cancelled
+ORD011932,Australia,Electronics,Cancelled
+ORD001538,Canada,Beauty,Returned
+ORD001914,Germany,Beauty,Returned
+ORD003483,India,Beauty,Returned
+ORD008214,United Kingdom,Books,Cancelled
+ORD010982,Australia,Sports,Cancelled
+ORD009995,Germany,Electronics,Returned
+ORD003481,Australia,Electronics,Cancelled
+ORD007783,Canada,Home & Kitchen,Returned
+ORD010349,United arab emirates,Home & Kitchen,Returned
+ORD002620,United Kingdom,Grocery,Returned
+ORD005112,Australia,Beauty,Returned
+ORD011779,United States,Grocery,Cancelled
+ORD011435,Canada,Toys,Cancelled
+ORD005706,India,Beauty,Cancelled
+ORD004016,Australia,Electronics,Returned
+ORD010043,Canada,Fashion,Cancelled
+ORD009877,Germany,Books,Cancelled
+ORD008641,United Kingdom,Books,Returned
+ORD001022,Australia,Fashion,Cancelled
+ORD011374,India,Books,Returned
+ORD008973,Canada,Grocery,Returned
+ORD008138,Australia,Beauty,Returned
+ORD000515,United arab emirates,Toys,Cancelled
+ORD010071,United arab emirates,Books,Returned
+ORD004238,Canada,Home & Kitchen,Cancelled
+ORD006988,Germany,Electronics,Returned
+ORD008084,Australia,Electronics,Cancelled
+ORD000338,Canada,Electronics,Cancelled
+ORD002741,United States,Beauty,Returned
+ORD008874,Canada,Fashion,Cancelled
+ORD008576,Canada,Toys,Returned
+ORD009399,Australia,Grocery,Cancelled
+ORD005453,Germany,Fashion,Cancelled
+ORD001558,Australia,Books,Cancelled
+ORD007022,Canada,Sports,Returned
+ORD011149,India,Books,Returned
+ORD010530,Australia,Fashion,Cancelled
+ORD006698,United arab emirates,Electronics,Returned
+ORD001830,Germany,Home & Kitchen,Returned
+ORD007691,Canada,Sports,Returned
+ORD010085,India,Books,Returned
+ORD009640,Canada,Electronics,Cancelled
+ORD001438,India,Grocery,Cancelled
+ORD002180,United arab emirates,Grocery,Cancelled
+ORD006213,United Kingdom,Sports,Returned
+ORD006272,United States,Grocery,Cancelled
+ORD006215,United arab emirates,Grocery,Returned
+ORD006614,Germany,Sports,Returned
+ORD000390,United Kingdom,Books,Cancelled
+ORD001707,Canada,Sports,Returned
+ORD011687,Australia,Beauty,Returned
+ORD002846,United States,Home & Kitchen,Returned
+ORD002042,Canada,Grocery,Returned
+ORD005985,United Kingdom,Electronics,Cancelled
+ORD006788,Canada,Electronics,Returned
+ORD009909,United arab emirates,Toys,Cancelled
+ORD005099,United arab emirates,Grocery,Cancelled
+ORD003883,Germany,Beauty,Cancelled
+ORD002082,India,Home & Kitchen,Returned
+ORD006050,United States,Electronics,Returned
+ORD000889,Canada,Fashion,Cancelled
+ORD009271,Germany,Fashion,Returned
+ORD005231,Canada,Books,Cancelled
+ORD001594,United arab emirates,Grocery,Cancelled
+ORD009792,United Kingdom,Toys,Returned
+ORD007625,United arab emirates,Beauty,Cancelled
+ORD005743,United arab emirates,Home & Kitchen,Returned
+ORD007976,United Kingdom,Home & Kitchen,Cancelled
+ORD008301,United Kingdom,Books,Returned
+ORD003718,Australia,Home & Kitchen,Cancelled
+ORD007870,United arab emirates,Beauty,Cancelled
+ORD004245,United arab emirates,Grocery,Returned
+ORD009572,United arab emirates,Sports,Cancelled
+ORD004754,United Kingdom,Electronics,Cancelled
+ORD003886,United arab emirates,Books,Returned
+ORD003316,Canada,Beauty,Returned
+ORD002693,United States,Toys,Cancelled
+ORD004909,Australia,Books,Cancelled
+ORD000290,United arab emirates,Grocery,Cancelled
+ORD002947,Australia,Beauty,Cancelled
+ORD011884,United arab emirates,Beauty,Cancelled
+ORD000751,Canada,Toys,Cancelled
+ORD001682,Canada,Books,Returned
+ORD009313,India,Sports,Cancelled
+ORD002458,Australia,Electronics,Returned
+ORD005345,Australia,Sports,Cancelled
+ORD003531,United arab emirates,Electronics,Cancelled
+ORD008462,Germany,Grocery,Cancelled
+ORD002872,United arab emirates,Home & Kitchen,Cancelled
+ORD001469,India,Books,Returned
+ORD003013,United Kingdom,Books,Returned
+ORD007446,United arab emirates,Books,Cancelled
+ORD009873,Australia,Books,Cancelled
+ORD004517,United Kingdom,Grocery,Cancelled
+ORD003190,United States,Electronics,Cancelled
+ORD011218,Australia,Home & Kitchen,Returned
+ORD011969,United arab emirates,Sports,Cancelled
+ORD011051,Australia,Grocery,Cancelled
+ORD007456,India,Toys,Cancelled
+ORD000200,United arab emirates,Home & Kitchen,Cancelled
+ORD003994,United States,Grocery,Cancelled
+ORD002336,Germany,Home & Kitchen,Cancelled
+ORD000161,United arab emirates,Fashion,Cancelled
+ORD008037,Australia,Beauty,Cancelled
+ORD000939,United arab emirates,Electronics,Returned
+ORD004741,United States,Books,Cancelled
+ORD009423,India,Electronics,Cancelled
+ORD003726,United States,Toys,Cancelled
+ORD007125,Canada,Grocery,Returned
+ORD008913,Australia,Toys,Returned
+ORD011073,United arab emirates,Fashion,Returned
+ORD011104,United States,Beauty,Cancelled
+ORD005678,United arab emirates,Books,Returned
+ORD007230,India,Beauty,Returned
+ORD000001,Australia,Home & Kitchen,Returned
+ORD004599,Australia,Beauty,Returned
+ORD006533,Germany,Fashion,Returned
+ORD005902,Germany,Electronics,Cancelled
+ORD000251,Germany,Sports,Cancelled
+ORD002401,United Kingdom,Books,Cancelled
+ORD008012,United arab emirates,Beauty,Returned
+ORD001615,United States,Sports,Cancelled
+ORD001394,Germany,Electronics,Cancelled
+ORD010226,United Kingdom,Grocery,Returned
+ORD008824,United Kingdom,Fashion,Returned
+ORD009113,Germany,Sports,Cancelled
+ORD006771,India,Grocery,Returned
+ORD008507,India,Grocery,Cancelled
+ORD008156,Australia,Toys,Cancelled
+ORD009538,United States,Electronics,Returned
+ORD005989,Canada,Home & Kitchen,Cancelled
+ORD006404,Canada,Beauty,Returned
+ORD007290,Canada,Beauty,Cancelled
+ORD011186,India,Grocery,Returned
+ORD003221,Australia,Books,Returned
+ORD005269,India,Toys,Cancelled
+ORD000422,United Kingdom,Beauty,Returned
+ORD000216,Australia,Toys,Returned
+ORD009302,Canada,Sports,Cancelled
+ORD010215,United States,Beauty,Cancelled
+ORD001449,India,Home & Kitchen,Returned
+ORD007678,United arab emirates,Fashion,Cancelled
+ORD002204,India,Toys,Cancelled
+ORD008830,Canada,Sports,Cancelled
+ORD002708,United States,Fashion,Cancelled
+ORD008569,United Kingdom,Fashion,Cancelled
+ORD001796,United Kingdom,Electronics,Returned
+ORD010295,India,Books,Returned
+ORD007480,United Kingdom,Fashion,Returned
+ORD000323,India,Grocery,Cancelled
+ORD007940,Canada,Toys,Returned
+ORD002220,United arab emirates,Electronics,Cancelled
+ORD008926,United States,Electronics,Cancelled
+ORD001010,United Kingdom,Sports,Returned
+ORD007932,India,Grocery,Returned
+ORD000882,United States,Home & Kitchen,Cancelled
+ORD010925,Australia,Toys,Cancelled
+ORD001408,United Kingdom,Electronics,Cancelled
+ORD008980,United States,Home & Kitchen,Returned
+ORD005426,Germany,Fashion,Cancelled
+ORD004338,Canada,Grocery,Cancelled
+ORD011625,Australia,Books,Cancelled
+ORD007416,United arab emirates,Home & Kitchen,Returned
+ORD004175,Canada,Grocery,Returned
+ORD000460,Australia,Grocery,Returned
+ORD003765,Australia,Home & Kitchen,Cancelled
+ORD003581,Australia,Books,Cancelled
+ORD003597,Germany,Fashion,Cancelled
+ORD003827,United States,Toys,Returned
+ORD001623,Germany,Beauty,Cancelled
+ORD005189,Canada,Fashion,Returned
+ORD002043,Australia,Toys,Cancelled
+ORD003621,Germany,Toys,Cancelled
+ORD010333,Germany,Grocery,Returned
+ORD008515,India,Home & Kitchen,Returned
+ORD001778,Germany,Grocery,Returned
+ORD002397,Australia,Fashion,Returned
+ORD010648,Canada,Electronics,Returned
+ORD000219,Germany,Home & Kitchen,Cancelled
+ORD000777,Australia,Toys,Cancelled
+ORD000100,India,Books,Cancelled
+ORD008631,Canada,Home & Kitchen,Returned
+ORD007981,United States,Beauty,Returned
+ORD005791,Australia,Sports,Returned
+ORD011618,United States,Grocery,Cancelled
+ORD010109,Australia,Toys,Returned
+ORD000788,Germany,Toys,Returned
+ORD008853,United States,Toys,Returned
+ORD009821,Germany,Grocery,Cancelled
+ORD000361,Australia,Books,Cancelled
+ORD004294,Germany,Beauty,Returned
+ORD003240,United Kingdom,Electronics,Returned
+ORD001644,India,Grocery,Returned
+ORD010031,United arab emirates,Beauty,Cancelled
+ORD000628,Canada,Fashion,Cancelled
+ORD000880,United Kingdom,Toys,Cancelled
+ORD000152,Australia,Grocery,Cancelled
+ORD010936,United arab emirates,Beauty,Returned
+ORD009537,Australia,Beauty,Returned
+ORD001534,United States,Sports,Cancelled
+ORD008635,United arab emirates,Electronics,Cancelled
+ORD000897,Canada,Grocery,Cancelled
+ORD005870,United Kingdom,Fashion,Cancelled
+ORD007491,Germany,Toys,Returned
+ORD001134,Canada,Beauty,Returned
+ORD010177,United arab emirates,Toys,Cancelled
+ORD010626,United States,Books,Cancelled
+ORD005989,Canada,Home & Kitchen,Cancelled
+ORD003570,Germany,Fashion,Returned
+ORD006824,India,Toys,Returned
+ORD004799,United States,Sports,Cancelled
+ORD004436,Canada,Grocery,Returned
+ORD008240,India,Electronics,Cancelled
+ORD001659,India,Fashion,Cancelled
+ORD011755,Germany,Electronics,Cancelled
+ORD004003,Germany,Fashion,Returned
+ORD006499,Germany,Toys,Returned
+ORD004525,United arab emirates,Sports,Cancelled
+ORD008645,United States,Sports,Cancelled
+ORD006865,India,Fashion,Returned
+ORD007724,India,Grocery,Cancelled
+ORD005478,India,Sports,Cancelled
+ORD002525,United arab emirates,Toys,Returned
+ORD008202,Canada,Toys,Cancelled
+ORD005359,United arab emirates,Beauty,Returned
+ORD000271,United States,Fashion,Returned
+ORD005864,United States,Beauty,Cancelled
+ORD006449,United States,Books,Cancelled
+ORD005392,United Kingdom,Home & Kitchen,Cancelled
+ORD009163,United Kingdom,Grocery,Cancelled
+ORD004025,Canada,Toys,Returned
+ORD001677,United Kingdom,Books,Returned
+ORD008075,Australia,Fashion,Cancelled
+ORD003742,Canada,Electronics,Cancelled
+ORD004306,United Kingdom,Grocery,Cancelled
+ORD001848,United Kingdom,Electronics,Cancelled
+ORD002531,United States,Sports,Returned
+ORD006408,United Kingdom,Home & Kitchen,Cancelled
+ORD006784,Germany,Fashion,Cancelled
+ORD005517,United arab emirates,Fashion,Cancelled
+ORD001269,Germany,Sports,Cancelled
+ORD009080,United States,Books,Returned
+ORD004727,Canada,Sports,Returned
+ORD004667,India,Books,Cancelled
+ORD003603,Germany,Electronics,Returned
+ORD001903,United States,Beauty,Cancelled
+ORD002780,Germany,Beauty,Cancelled
+ORD003709,Australia,Grocery,Returned
+ORD010729,United Kingdom,Fashion,Cancelled
+ORD009210,Canada,Toys,Cancelled
+ORD007074,Germany,Sports,Cancelled
+ORD000281,India,Sports,Cancelled
+ORD001978,Australia,Electronics,Cancelled
+ORD000918,India,Grocery,Returned
+ORD002984,United States,Home & Kitchen,Returned
+ORD007710,Germany,Toys,Cancelled
+ORD010672,Canada,Fashion,Cancelled
+ORD009224,United States,Grocery,Returned
+ORD009040,Australia,Toys,Returned
+ORD007701,United arab emirates,Grocery,Cancelled
+ORD009649,Germany,Books,Returned
+ORD004115,United arab emirates,Sports,Cancelled
+ORD008763,Canada,Home & Kitchen,Cancelled
+ORD005032,United States,Electronics,Returned
+ORD003731,India,Electronics,Returned
+ORD000141,Canada,Electronics,Cancelled
+ORD006712,Canada,Electronics,Cancelled
+ORD000552,United States,Books,Cancelled
+ORD007949,India,Grocery,Returned
+ORD008997,Canada,Beauty,Returned
+ORD005819,Canada,Sports,Cancelled
+ORD000458,India,Electronics,Returned
+ORD011168,United arab emirates,Toys,Returned
+ORD003505,United States,Fashion,Returned
+ORD001072,Australia,Beauty,Returned
+ORD011882,Germany,Fashion,Cancelled
+ORD001917,United Kingdom,Grocery,Returned
+ORD000503,United Kingdom,Grocery,Returned
+ORD011172,Germany,Fashion,Cancelled
+ORD010018,Canada,Home & Kitchen,Returned
+ORD006962,Canada,Toys,Cancelled
+ORD005558,Canada,Sports,Returned
+ORD007793,United arab emirates,Home & Kitchen,Returned
+ORD008718,United arab emirates,Grocery,Cancelled
+ORD006679,Australia,Sports,Returned
+ORD009553,Canada,Grocery,Returned
+ORD010142,United Kingdom,Electronics,Cancelled
+ORD009381,Australia,Beauty,Returned
+ORD010778,United Kingdom,Home & Kitchen,Returned
+ORD010200,United arab emirates,Toys,Cancelled
+ORD001598,Canada,Books,Cancelled
+ORD007192,United States,Electronics,Cancelled
+ORD009250,Germany,Home & Kitchen,Returned
+ORD002317,United arab emirates,Sports,Returned
+ORD006333,Germany,Home & Kitchen,Cancelled
+ORD009332,United Kingdom,Home & Kitchen,Cancelled
+ORD008076,United States,Electronics,Returned
+ORD010990,Canada,Home & Kitchen,Cancelled
+ORD010040,Germany,Beauty,Cancelled
+ORD007987,Canada,Beauty,Returned
+ORD004006,United arab emirates,Electronics,Cancelled
+ORD000869,United Kingdom,Home & Kitchen,Returned
+ORD004011,Australia,Fashion,Cancelled
+ORD008656,Australia,Beauty,Returned
+ORD011770,Germany,Toys,Returned
+ORD008887,United Kingdom,Books,Cancelled
+ORD004413,Canada,Fashion,Returned
+ORD005617,United arab emirates,Grocery,Returned
+ORD007636,United Kingdom,Fashion,Cancelled
+ORD002021,United States,Beauty,Cancelled
+ORD006887,United States,Fashion,Cancelled
+ORD010507,United arab emirates,Toys,Returned
+ORD011834,Germany,Fashion,Cancelled
+ORD000790,Canada,Beauty,Cancelled
+ORD002639,United States,Sports,Returned
+ORD009990,Australia,Grocery,Returned
+ORD006744,United Kingdom,Beauty,Cancelled
+ORD003461,United States,Books,Returned
+ORD003976,United Kingdom,Beauty,Cancelled
+ORD007027,United States,Sports,Returned
+ORD008999,United arab emirates,Grocery,Returned
+ORD005633,United Kingdom,Toys,Returned
+ORD003565,United arab emirates,Electronics,Cancelled
+ORD002010,United States,Sports,Returned
+ORD007514,Germany,Home & Kitchen,Returned
+ORD010140,United Kingdom,Sports,Cancelled
+ORD011359,United States,Sports,Returned
+ORD001180,United States,Electronics,Cancelled
+ORD000640,United arab emirates,Sports,Returned
+ORD001950,Canada,Books,Cancelled
+ORD005778,India,Electronics,Cancelled
+ORD009125,United Kingdom,Beauty,Cancelled
+ORD011706,United States,Fashion,Cancelled
+ORD003083,Canada,Toys,Cancelled
+ORD010688,Canada,Beauty,Returned
+ORD010960,United States,Grocery,Cancelled
+ORD001377,United arab emirates,Toys,Cancelled
+ORD001972,United States,Beauty,Cancelled
+ORD001749,Australia,Toys,Cancelled
+ORD005347,Australia,Beauty,Returned
+ORD011313,Germany,Sports,Returned
+ORD011946,United Kingdom,Electronics,Cancelled
+ORD010765,India,Electronics,Returned
+ORD010492,Germany,Sports,Returned
+ORD000371,Canada,Grocery,Cancelled
+ORD006472,United arab emirates,Toys,Returned
+ORD010344,United Kingdom,Beauty,Cancelled
+ORD006097,United Kingdom,Sports,Returned
+ORD002884,United Kingdom,Books,Cancelled
+ORD007938,India,Grocery,Returned
+ORD008113,India,Sports,Cancelled
+ORD006817,United States,Home & Kitchen,Returned
+ORD010897,Canada,Home & Kitchen,Returned
+ORD002416,United Kingdom,Home & Kitchen,Cancelled
+ORD007282,India,Beauty,Cancelled
+ORD010519,Germany,Home & Kitchen,Returned
+ORD009086,Canada,Books,Cancelled
+ORD003988,United States,Beauty,Returned
+ORD004249,India,Beauty,Returned
+ORD010283,Canada,Grocery,Returned
+ORD004673,United Kingdom,Grocery,Cancelled
+ORD007845,United Kingdom,Toys,Returned
+ORD000468,United Kingdom,Beauty,Cancelled
+ORD005333,India,Books,Cancelled
+ORD008253,Canada,Home & Kitchen,Returned
+ORD005141,India,Grocery,Returned
+ORD011695,India,Books,Cancelled
+ORD006748,United arab emirates,Sports,Cancelled
+ORD003972,United States,Sports,Returned
+ORD008103,United Kingdom,Books,Returned
+ORD008705,United Kingdom,Grocery,Cancelled
+ORD009295,United States,Sports,Returned
+ORD009159,Canada,Electronics,Cancelled
+ORD005583,Canada,Grocery,Cancelled
+ORD011373,United arab emirates,Home & Kitchen,Cancelled
+ORD001663,United Kingdom,Beauty,Returned
+ORD001424,United arab emirates,Grocery,Returned
+ORD011481,Canada,Fashion,Returned
+ORD000925,United arab emirates,Toys,Returned
+ORD006540,United States,Electronics,Cancelled
+ORD000008,United Kingdom,Grocery,Cancelled
+ORD000935,Australia,Electronics,Returned
+ORD011609,United arab emirates,Books,Cancelled
+ORD005793,India,Fashion,Cancelled
+ORD009133,Canada,Home & Kitchen,Returned
+ORD000523,United States,Sports,Cancelled
+ORD002222,United arab emirates,Grocery,Returned
+ORD009059,United Kingdom,Home & Kitchen,Cancelled
+ORD000198,Australia,Home & Kitchen,Cancelled
+ORD008318,United States,Fashion,Cancelled
+ORD008402,Australia,Sports,Returned
+ORD011387,India,Sports,Returned
+ORD010257,Canada,Home & Kitchen,Cancelled
+ORD001135,Germany,Sports,Returned
+ORD002024,Australia,Beauty,Returned
+ORD009727,Germany,Books,Returned
+ORD005520,Canada,Grocery,Cancelled
+ORD004193,United States,Grocery,Cancelled
+ORD008948,United Kingdom,Sports,Cancelled
+ORD009972,Australia,Electronics,Cancelled
+ORD000606,India,Fashion,Returned
+ORD005146,Australia,Beauty,Cancelled
+ORD007857,United Kingdom,Electronics,Returned
+ORD008928,United Kingdom,Grocery,Returned
+ORD001511,United Kingdom,Beauty,Returned
+ORD005175,United arab emirates,Fashion,Cancelled
+ORD009175,Germany,Fashion,Returned
+ORD001602,United Kingdom,Toys,Returned
+ORD008810,United States,Home & Kitchen,Cancelled
+ORD006955,India,Electronics,Cancelled
+ORD000950,Germany,Beauty,Cancelled
+ORD000287,Canada,Toys,Returned
+ORD007525,United Kingdom,Toys,Cancelled
+ORD000957,Germany,Sports,Cancelled
+ORD000265,India,Books,Cancelled
+ORD004262,United Kingdom,Home & Kitchen,Returned
+ORD010081,United Kingdom,Home & Kitchen,Cancelled
+ORD004670,Germany,Fashion,Cancelled
+ORD001249,United States,Fashion,Returned
+ORD011182,United arab emirates,Home & Kitchen,Cancelled
+ORD003574,Canada,Sports,Returned
+ORD007421,United States,Books,Returned
+ORD005341,Australia,Home & Kitchen,Cancelled
+ORD001748,Australia,Sports,Returned
+ORD010564,United States,Beauty,Returned
+ORD005090,United Kingdom,Electronics,Cancelled
+ORD011215,Australia,Beauty,Cancelled
+ORD010487,Canada,Home & Kitchen,Cancelled
+ORD005714,United arab emirates,Electronics,Returned
+ORD011524,India,Fashion,Cancelled
+ORD000450,United Kingdom,Home & Kitchen,Cancelled
+ORD009698,United Kingdom,Books,Returned
+ORD009933,United States,Sports,Cancelled
+ORD009799,Germany,Beauty,Cancelled
+ORD002654,United Kingdom,Beauty,Cancelled
+ORD001791,United arab emirates,Fashion,Returned
+ORD002085,Australia,Beauty,Cancelled
+ORD003283,United arab emirates,Books,Returned
+ORD008282,United States,Home & Kitchen,Cancelled
+ORD003468,Germany,Home & Kitchen,Cancelled
+ORD006290,Germany,Grocery,Cancelled
+ORD000582,India,Books,Returned
+ORD011782,United States,Grocery,Cancelled
+ORD008805,Germany,Grocery,Cancelled
+ORD009336,Germany,Home & Kitchen,Cancelled
+ORD009748,United Kingdom,Home & Kitchen,Cancelled
+ORD011693,United Kingdom,Beauty,Returned
+ORD008154,India,Books,Returned
+ORD009290,United Kingdom,Books,Returned
+ORD003606,United arab emirates,Fashion,Cancelled
+ORD006124,India,Books,Cancelled
+ORD002898,United States,Electronics,Returned
+ORD008343,United Kingdom,Toys,Cancelled
+ORD010514,Australia,Electronics,Returned
+ORD011877,Canada,Beauty,Returned
+ORD002249,Australia,Beauty,Returned
+ORD000612,United arab emirates,Grocery,Returned
+ORD008352,United Kingdom,Fashion,Returned
+ORD007926,United arab emirates,Electronics,Returned
+ORD011855,Germany,Toys,Returned
+ORD001746,United arab emirates,Home & Kitchen,Returned
+ORD000986,Australia,Beauty,Returned
+ORD003674,United Kingdom,Home & Kitchen,Returned
+ORD006970,United arab emirates,Electronics,Returned
+ORD002191,Australia,Fashion,Cancelled
+ORD002442,United Kingdom,Grocery,Cancelled
+ORD007743,United States,Sports,Returned
+ORD009395,Germany,Toys,Returned
+ORD001371,United arab emirates,Grocery,Cancelled
+ORD001956,Australia,Fashion,Cancelled
+ORD006145,Canada,Home & Kitchen,Cancelled
+ORD005221,United Kingdom,Home & Kitchen,Cancelled
+ORD011983,India,Books,Cancelled
+ORD011389,United arab emirates,Toys,Cancelled
+ORD010199,Canada,Electronics,Returned
+ORD006347,Canada,Fashion,Returned
+ORD002480,India,Electronics,Cancelled
+ORD000456,Germany,Beauty,Returned
+ORD001734,United arab emirates,Books,Cancelled
+ORD007212,United arab emirates,Electronics,Returned
+ORD003028,Canada,Electronics,Returned
+ORD000294,India,Books,Cancelled
+ORD003780,Australia,Sports,Returned
+ORD007299,Germany,Home & Kitchen,Cancelled
+ORD004246,Germany,Fashion,Cancelled
+ORD003713,United arab emirates,Fashion,Cancelled
+ORD004114,United arab emirates,Sports,Returned
+ORD002161,Germany,Home & Kitchen,Cancelled
+ORD004270,India,Electronics,Returned
+ORD006457,United arab emirates,Beauty,Cancelled
+ORD002011,United arab emirates,Fashion,Cancelled
+ORD003786,United States,Books,Cancelled
+ORD010233,United Kingdom,Home & Kitchen,Cancelled
+ORD009273,India,Fashion,Cancelled
+ORD000430,Australia,Grocery,Cancelled
+ORD002824,United arab emirates,Toys,Cancelled
+ORD009834,United States,Beauty,Returned
+ORD008697,Canada,Electronics,Cancelled
+ORD003511,United arab emirates,Books,Cancelled
+ORD004598,India,Beauty,Cancelled
+ORD011449,Australia,Grocery,Returned
+ORD000970,India,Fashion,Returned
+ORD007849,Germany,Books,Cancelled
+ORD010878,Germany,Books,Cancelled
+ORD008594,United arab emirates,Fashion,Returned
+ORD007267,Canada,Fashion,Returned
+ORD006448,Australia,Fashion,Returned
+ORD011573,United arab emirates,Toys,Returned
+ORD006706,United Kingdom,Grocery,Returned
+ORD007106,Canada,Beauty,Returned
+ORD003740,Germany,Books,Returned
+ORD002512,United Kingdom,Toys,Returned
+ORD002617,Germany,Toys,Cancelled
+ORD008901,United States,Beauty,Cancelled
+ORD004637,Canada,Beauty,Returned
+ORD008511,Germany,Beauty,Cancelled
+ORD009410,Australia,Fashion,Cancelled
+ORD009431,Australia,Sports,Returned
+ORD009810,United States,Sports,Cancelled
+ORD010336,India,Home & Kitchen,Returned
+ORD007894,India,Fashion,Returned
+ORD005407,United States,Sports,Returned
+ORD008764,United arab emirates,Beauty,Cancelled
+ORD003075,United arab emirates,Books,Cancelled
+ORD000165,United Kingdom,Sports,Returned
+ORD000608,United Kingdom,Sports,Cancelled
+ORD011738,Australia,Grocery,Cancelled
+ORD007122,Germany,Electronics,Cancelled
+ORD010834,India,Beauty,Cancelled
+ORD003307,United Kingdom,Grocery,Cancelled
+ORD000581,India,Books,Returned
+ORD005328,United arab emirates,Home & Kitchen,Cancelled
+ORD000548,United States,Toys,Cancelled
+ORD003707,United States,Home & Kitchen,Cancelled
+ORD009593,Australia,Fashion,Cancelled
+ORD009432,Germany,Beauty,Cancelled
+ORD005459,India,Toys,Cancelled
+ORD001195,Australia,Electronics,Returned
+ORD002874,India,Toys,Returned
+ORD003560,United arab emirates,Beauty,Cancelled
+ORD011311,Australia,Toys,Cancelled
+ORD003229,Germany,Toys,Returned
+ORD010562,Australia,Home & Kitchen,Returned
+ORD004254,India,Toys,Returned
+ORD011376,United States,Electronics,Returned
+ORD004977,United Kingdom,Electronics,Cancelled
+ORD002337,Germany,Electronics,Returned
+ORD005665,Canada,Books,Returned
+ORD002156,United Kingdom,Books,Cancelled
+ORD010134,Canada,Home & Kitchen,Returned
+ORD008160,United arab emirates,Sports,Returned
+ORD008143,Canada,Grocery,Cancelled
+ORD005262,Australia,Toys,Returned
+ORD006416,United arab emirates,Books,Cancelled
+ORD003854,United Kingdom,Fashion,Cancelled
+ORD010431,Canada,Sports,Returned
+ORD003497,Canada,Home & Kitchen,Cancelled
+ORD000735,United Kingdom,Fashion,Returned
+ORD011286,United arab emirates,Electronics,Cancelled
+ORD005972,Canada,Fashion,Returned
+ORD004543,United Kingdom,Books,Cancelled
+ORD000625,India,Toys,Returned
+ORD003648,Germany,Electronics,Returned
+ORD009487,India,Toys,Cancelled
+ORD008407,United Kingdom,Fashion,Cancelled
+ORD005863,United Kingdom,Toys,Returned
+ORD006162,United Kingdom,Books,Cancelled
+ORD008066,Australia,Fashion,Cancelled
+ORD005338,United States,Books,Cancelled
+ORD004891,Canada,Electronics,Returned
+ORD005907,India,Toys,Cancelled
+ORD002983,India,Books,Cancelled
+ORD003034,Canada,Toys,Returned
+ORD007263,India,Electronics,Cancelled
+ORD007182,United States,Grocery,Returned
+ORD004645,United Kingdom,Grocery,Cancelled
+ORD002488,United Kingdom,Electronics,Cancelled
+ORD009575,India,Books,Returned
+ORD002753,United States,Home & Kitchen,Returned
+ORD005366,Canada,Books,Returned
+ORD002955,United Kingdom,Fashion,Cancelled
+ORD011261,United Kingdom,Beauty,Cancelled
+ORD001072,Australia,Beauty,Returned
+ORD007190,India,Electronics,Returned
+ORD007023,United Kingdom,Fashion,Returned
+ORD002233,United arab emirates,Toys,Cancelled
+ORD007571,India,Home & Kitchen,Cancelled
+ORD001185,India,Toys,Cancelled
+ORD008354,Canada,Grocery,Returned
+ORD009231,Germany,Electronics,Cancelled
+ORD009214,United arab emirates,Fashion,Returned
+ORD011393,United Kingdom,Electronics,Returned
+ORD000533,Australia,Fashion,Cancelled
+ORD009987,Canada,Home & Kitchen,Cancelled
+ORD010070,Germany,Sports,Returned
+ORD011285,United arab emirates,Fashion,Cancelled
+ORD002681,Canada,Beauty,Cancelled
+ORD003387,United Kingdom,Electronics,Returned
+ORD009730,United arab emirates,Fashion,Returned
+ORD002088,Canada,Beauty,Returned
+ORD004817,Australia,Sports,Cancelled
+ORD008041,United arab emirates,Sports,Returned
+ORD000497,Australia,Sports,Returned
+ORD003130,Australia,Sports,Returned
+ORD000757,United arab emirates,Fashion,Returned
+ORD009700,Germany,Toys,Cancelled
+ORD003634,Germany,Electronics,Cancelled
+ORD008694,Australia,Home & Kitchen,Cancelled
+ORD011533,United arab emirates,Beauty,Cancelled
+ORD006480,United Kingdom,Beauty,Cancelled
+ORD003394,United Kingdom,Toys,Cancelled
+ORD008575,United Kingdom,Sports,Cancelled
+ORD003623,Germany,Grocery,Cancelled
+ORD008130,Germany,Fashion,Cancelled
+ORD003533,United States,Home & Kitchen,Returned
+ORD002692,Germany,Fashion,Returned
+ORD005127,Germany,Toys,Cancelled
+ORD011127,Germany,Electronics,Returned
+ORD001107,United Kingdom,Electronics,Cancelled
+ORD011800,United States,Electronics,Returned
+ORD007499,United States,Toys,Returned
+ORD006548,United arab emirates,Books,Cancelled
+ORD002698,United States,Toys,Returned
+ORD001863,Australia,Beauty,Cancelled
+ORD005653,Canada,Toys,Returned
+ORD011896,Australia,Electronics,Cancelled
+ORD005007,Germany,Sports,Returned
+ORD009193,Germany,Fashion,Cancelled
+ORD001094,United Kingdom,Electronics,Returned
+ORD009590,Australia,Sports,Cancelled
+ORD000303,Canada,Sports,Returned
+ORD009222,United States,Grocery,Cancelled
+ORD008179,United arab emirates,Home & Kitchen,Cancelled
+ORD007350,United States,Beauty,Returned
+ORD003667,Canada,Fashion,Returned
+ORD011615,United States,Beauty,Cancelled
+ORD003485,United arab emirates,Electronics,Returned
+ORD004329,Canada,Grocery,Cancelled
+ORD001781,Canada,Grocery,Returned
+ORD002940,Australia,Toys,Returned
+ORD008021,United arab emirates,Grocery,Returned
+ORD010861,United arab emirates,Beauty,Returned
+ORD010839,United Kingdom,Electronics,Returned
+ORD003010,United States,Fashion,Returned
+ORD005261,Australia,Home & Kitchen,Cancelled
+ORD006783,United States,Grocery,Returned
+ORD008551,India,Home & Kitchen,Returned
+ORD004077,Canada,Sports,Cancelled
+ORD008120,Canada,Sports,Cancelled
+ORD011640,Australia,Fashion,Cancelled
+ORD000700,United Kingdom,Toys,Cancelled
+ORD003423,United arab emirates,Grocery,Cancelled
+ORD005124,United States,Sports,Cancelled
+ORD008325,India,Books,Returned
+ORD003566,Australia,Home & Kitchen,Cancelled
+ORD002160,United Kingdom,Electronics,Returned
+ORD006520,Canada,Toys,Returned
+ORD004627,India,Grocery,Returned
+ORD005083,India,Electronics,Cancelled
+ORD011118,United arab emirates,Home & Kitchen,Cancelled
+ORD000190,United arab emirates,Beauty,Returned
+ORD000767,Canada,Home & Kitchen,Cancelled
+ORD001823,Germany,Home & Kitchen,Returned
+ORD000359,United Kingdom,Sports,Returned
+ORD004088,India,Fashion,Cancelled
+ORD005625,United Kingdom,Electronics,Cancelled
+ORD010837,Canada,Electronics,Returned
+ORD002231,United States,Grocery,Cancelled
+ORD009579,United arab emirates,Electronics,Returned
+ORD002157,United States,Home & Kitchen,Cancelled
+ORD004783,India,Sports,Returned
+ORD002796,Australia,Grocery,Cancelled
+ORD006338,United arab emirates,Beauty,Cancelled
+ORD009345,United States,Toys,Cancelled
+ORD002335,United arab emirates,Grocery,Cancelled
+ORD009868,Australia,Grocery,Returned
+ORD011674,Australia,Beauty,Returned
+ORD006346,United arab emirates,Sports,Cancelled
+ORD006014,Australia,Electronics,Returned
+ORD005454,India,Toys,Cancelled
+ORD009525,Canada,Sports,Returned
+ORD008951,United Kingdom,Grocery,Cancelled
+ORD000797,Canada,Books,Returned
+ORD011982,Germany,Grocery,Returned
+ORD007903,Australia,Fashion,Returned
+ORD005415,India,Books,Cancelled
+ORD010554,Australia,Books,Returned
+ORD010361,India,Fashion,Cancelled
+ORD004407,Canada,Sports,Cancelled
+ORD002358,United States,Fashion,Returned
+ORD010325,India,Grocery,Returned
+ORD010763,Germany,Home & Kitchen,Cancelled
+ORD011807,Australia,Books,Returned
+ORD003275,United States,Grocery,Cancelled
+ORD004291,United arab emirates,Home & Kitchen,Returned
+ORD010709,United arab emirates,Toys,Returned
+ORD002912,United Kingdom,Fashion,Cancelled
+ORD003369,United arab emirates,Books,Cancelled
+ORD001096,United Kingdom,Grocery,Cancelled
+ORD004384,Canada,Toys,Returned
+ORD005150,United arab emirates,Toys,Returned
+ORD002475,India,Beauty,Cancelled
+ORD009708,Germany,Fashion,Cancelled
+ORD002834,United Kingdom,Electronics,Cancelled
+ORD006103,United States,Home & Kitchen,Cancelled
+ORD005763,United arab emirates,Fashion,Cancelled
+ORD009630,India,Home & Kitchen,Cancelled
+ORD003530,Germany,Books,Cancelled
+ORD003465,Canada,Beauty,Cancelled
+ORD007886,Australia,Home & Kitchen,Cancelled
+ORD011764,United States,Home & Kitchen,Returned
+ORD006648,India,Beauty,Cancelled
+ORD002876,Australia,Toys,Returned
+ORD010851,Australia,Sports,Cancelled
+ORD005564,United Kingdom,Beauty,Cancelled
+ORD007502,Australia,Grocery,Cancelled
+ORD011364,United Kingdom,Grocery,Returned
+ORD003509,Germany,Sports,Returned
+ORD005074,Australia,Books,Returned
+ORD007803,United States,Fashion,Cancelled
+ORD002893,Germany,Home & Kitchen,Returned
+ORD008029,India,Beauty,Cancelled
+ORD011368,United arab emirates,Sports,Returned
+ORD009809,Australia,Electronics,Returned
+ORD010387,Germany,Toys,Cancelled
+ORD011576,India,Home & Kitchen,Cancelled
+ORD007716,United arab emirates,Books,Cancelled
+ORD009600,Australia,Grocery,Returned
+ORD004213,Canada,Toys,Cancelled
+ORD003662,United arab emirates,Toys,Returned
+ORD001974,India,Books,Cancelled
+ORD005429,United Kingdom,Home & Kitchen,Cancelled
+ORD009384,India,Books,Cancelled
+ORD011825,United Kingdom,Home & Kitchen,Cancelled
+ORD009110,Germany,Toys,Cancelled
+ORD004937,United States,Books,Returned
+ORD002507,United arab emirates,Fashion,Returned
+ORD001824,Australia,Fashion,Cancelled
+ORD002469,Germany,Books,Returned
+ORD001568,United arab emirates,Beauty,Cancelled
+ORD004825,Germany,Beauty,Cancelled
+ORD005748,Germany,Grocery,Returned
+ORD005260,Germany,Electronics,Returned
+ORD006420,Germany,Books,Returned
+ORD007331,United arab emirates,Fashion,Cancelled
+ORD007175,Canada,Grocery,Cancelled
+ORD001787,Germany,Grocery,Cancelled
+ORD011126,Canada,Grocery,Cancelled
+ORD006387,United Kingdom,Grocery,Returned
+ORD010734,United States,Books,Returned
+ORD000048,Canada,Sports,Cancelled
+ORD004544,United Kingdom,Home & Kitchen,Returned
+ORD006915,United Kingdom,Toys,Cancelled
+ORD009158,Germany,Home & Kitchen,Cancelled
+ORD008518,Canada,Toys,Returned
+ORD004672,United States,Beauty,Returned
+ORD001132,Australia,Toys,Returned
+ORD001482,United States,Grocery,Cancelled
+ORD010003,India,Grocery,Cancelled
+ORD007996,United arab emirates,Sports,Cancelled
+ORD009184,Canada,Home & Kitchen,Cancelled
+ORD008915,India,Beauty,Cancelled
+ORD008950,United States,Books,Cancelled
+ORD004985,United Kingdom,Fashion,Returned
+ORD006118,Australia,Toys,Cancelled
+ORD002838,Canada,Beauty,Cancelled
+ORD003469,United States,Toys,Cancelled
+ORD007789,United Kingdom,Books,Returned
+ORD004545,United States,Electronics,Cancelled
+ORD003869,United Kingdom,Beauty,Returned
+ORD000609,United Kingdom,Beauty,Cancelled
+ORD006096,United States,Books,Cancelled
+ORD008232,United States,Grocery,Cancelled
+ORD011124,United Kingdom,Beauty,Cancelled
+ORD004828,Canada,Books,Returned
+ORD009819,Germany,Toys,Returned
+ORD003984,India,Grocery,Cancelled
+ORD002463,Germany,Grocery,Cancelled
+ORD008138,Australia,Beauty,Returned
+ORD003803,United Kingdom,Electronics,Cancelled
+ORD009569,United States,Toys,Cancelled
+ORD008362,Germany,Grocery,Cancelled
+ORD002519,United arab emirates,Electronics,Cancelled
+ORD002386,United Kingdom,Home & Kitchen,Cancelled
+ORD008897,United arab emirates,Fashion,Returned
+ORD002674,India,Sports,Returned
+ORD002303,Australia,Books,Returned
+ORD007472,United States,Beauty,Returned
+ORD003862,Canada,Grocery,Returned
+ORD007603,United arab emirates,Grocery,Cancelled
+ORD007113,United States,Fashion,Cancelled
+ORD001142,United Kingdom,Grocery,Cancelled
+ORD003841,Canada,Beauty,Cancelled
+ORD003484,Australia,Grocery,Cancelled
+ORD009427,United Kingdom,Beauty,Cancelled
+ORD010495,United States,Beauty,Cancelled
+ORD007642,India,Fashion,Returned
+ORD010911,India,Books,Cancelled
+ORD010582,Canada,Grocery,Returned
+ORD003654,United States,Grocery,Cancelled
+ORD009610,United Kingdom,Beauty,Returned
+ORD009403,United arab emirates,Electronics,Cancelled
+ORD005335,United Kingdom,Fashion,Returned
+ORD000155,India,Sports,Returned
+ORD004688,United States,Home & Kitchen,Cancelled
+ORD007172,India,Toys,Cancelled
+ORD000301,United arab emirates,Fashion,Cancelled
+ORD002173,India,Sports,Cancelled
+ORD009244,Germany,Toys,Cancelled
+ORD011970,Canada,Fashion,Cancelled
+ORD001597,India,Fashion,Cancelled
+ORD004734,Canada,Books,Cancelled
+ORD000466,Canada,Toys,Returned
+ORD007474,United States,Toys,Cancelled
+ORD008244,Canada,Grocery,Returned
+ORD004932,Canada,Beauty,Cancelled
+ORD000654,Germany,Grocery,Cancelled
+ORD005957,Australia,Beauty,Returned
+ORD002583,United arab emirates,Fashion,Cancelled
+ORD009735,Germany,Toys,Returned
+ORD009949,Canada,Fashion,Cancelled
+ORD007185,India,Electronics,Returned
+ORD010424,India,Home & Kitchen,Cancelled
+ORD007373,United Kingdom,Grocery,Returned
+ORD002367,Australia,Toys,Cancelled
+ORD009407,Germany,Toys,Cancelled
+ORD004966,United Kingdom,Sports,Cancelled
+ORD008701,India,Grocery,Returned
+ORD000332,United Kingdom,Grocery,Cancelled
+ORD003923,Germany,Home & Kitchen,Cancelled
+ORD004443,United Kingdom,Electronics,Cancelled
+ORD002896,United arab emirates,Beauty,Returned
+ORD001019,Australia,Fashion,Returned
+ORD005822,Canada,Fashion,Returned
+ORD005070,United States,Home & Kitchen,Cancelled
+ORD007032,Canada,Electronics,Cancelled
+ORD008123,India,Electronics,Returned
+ORD003555,United Kingdom,Electronics,Returned
+ORD007187,Australia,Fashion,Returned
+ORD002821,Canada,Sports,Cancelled
+ORD010599,United States,Books,Returned
+ORD001990,Canada,Beauty,Returned
+ORD010434,Germany,Sports,Cancelled
+ORD006994,Canada,Home & Kitchen,Returned
+ORD009734,India,Home & Kitchen,Returned
+ORD001583,United arab emirates,Toys,Returned
+ORD003916,Australia,Fashion,Cancelled
+ORD008883,India,Books,Returned
+ORD005832,India,Electronics,Cancelled
+ORD003256,Germany,Fashion,Returned
+ORD005632,Australia,Grocery,Cancelled
+ORD004957,United States,Sports,Returned
+ORD001896,United States,Fashion,Returned
+ORD008260,United arab emirates,Grocery,Cancelled
+ORD004559,Germany,Beauty,Returned
+ORD007747,Germany,Electronics,Cancelled
+ORD011058,Australia,Electronics,Cancelled
+ORD002380,United arab emirates,Sports,Cancelled
+ORD004071,Germany,Grocery,Returned
+ORD000860,United Kingdom,Electronics,Returned
+ORD007737,United Kingdom,Electronics,Cancelled
+ORD002851,Canada,Toys,Cancelled
+ORD004643,United Kingdom,Sports,Returned
+ORD002466,Germany,Home & Kitchen,Cancelled
+ORD009955,United Kingdom,Beauty,Returned
+ORD007407,Germany,Beauty,Returned
+ORD004156,India,Books,Cancelled
+ORD001373,Germany,Sports,Returned
+ORD006106,United States,Grocery,Cancelled
+ORD005745,United arab emirates,Home & Kitchen,Cancelled
+ORD004128,United States,Grocery,Cancelled
+ORD002149,United States,Books,Returned
+ORD007597,United arab emirates,Toys,Returned
+ORD008495,Germany,Beauty,Returned
+ORD001622,India,Grocery,Cancelled
+ORD007396,Australia,Grocery,Returned
+ORD011972,Germany,Grocery,Returned
+ORD004390,India,Electronics,Cancelled
+ORD011088,Germany,Grocery,Returned
+ORD004095,Canada,Fashion,Returned
+ORD005116,Canada,Sports,Returned
+ORD005226,Germany,Books,Returned
+ORD004386,United States,Toys,Cancelled
+ORD007665,India,Electronics,Returned
+ORD006430,Canada,Books,Returned
+ORD003745,Canada,Fashion,Returned
+ORD009232,Canada,Electronics,Cancelled
+ORD008444,United arab emirates,Beauty,Returned
+ORD005080,United Kingdom,Sports,Cancelled
+ORD005290,Australia,Sports,Returned
+ORD005594,United States,Fashion,Cancelled
+ORD010897,Canada,Home & Kitchen,Returned
+ORD000868,United States,Sports,Cancelled
+ORD008159,United Kingdom,Books,Cancelled
+ORD004890,United States,Beauty,Cancelled
+ORD001434,United arab emirates,Beauty,Returned
+ORD001539,United arab emirates,Sports,Cancelled
+ORD006735,United arab emirates,Sports,Cancelled
+ORD001164,Australia,Toys,Cancelled
+ORD010833,United States,Beauty,Returned
+ORD002277,Australia,Toys,Cancelled
+ORD001903,United States,Beauty,Cancelled
+ORD010466,India,Fashion,Returned
+ORD011147,Germany,Electronics,Cancelled
+ORD009677,United Kingdom,Toys,Returned
+ORD004637,Canada,Beauty,Returned
+ORD006922,Germany,Electronics,Cancelled
+ORD006958,Germany,Fashion,Returned
+ORD010161,Germany,Sports,Returned
+ORD004125,Canada,Home & Kitchen,Returned
+ORD003294,United States,Electronics,Returned
+ORD005705,United States,Toys,Returned
+ORD002175,United arab emirates,Fashion,Cancelled
+ORD006850,Germany,Grocery,Returned
+ORD004632,Germany,Sports,Returned
+ORD007561,Canada,Home & Kitchen,Returned
+ORD009308,Canada,Home & Kitchen,Cancelled
+ORD008017,United States,Grocery,Cancelled
+ORD006168,United Kingdom,Books,Cancelled
+ORD004187,Germany,Home & Kitchen,Returned
+ORD008875,United arab emirates,Toys,Cancelled
+ORD004189,United arab emirates,Beauty,Cancelled
+ORD001645,India,Electronics,Cancelled
+ORD001510,Australia,Fashion,Cancelled
+ORD008765,United Kingdom,Beauty,Cancelled
+ORD009279,Germany,Electronics,Returned
+ORD003887,Canada,Toys,Returned
+ORD002643,Australia,Fashion,Cancelled
+ORD002276,United arab emirates,Fashion,Cancelled
+ORD011352,Germany,Toys,Cancelled
+ORD008902,United arab emirates,Sports,Cancelled
+ORD005964,United Kingdom,Electronics,Cancelled
+ORD005430,United Kingdom,Sports,Cancelled
+ORD006076,United States,Sports,Cancelled
+ORD006588,India,Grocery,Cancelled
+ORD010522,Germany,Sports,Cancelled
+ORD010135,Canada,Fashion,Returned
+ORD002486,United Kingdom,Electronics,Returned
+ORD011926,Australia,Home & Kitchen,Cancelled
+ORD004794,Canada,Home & Kitchen,Returned
+ORD009180,United Kingdom,Beauty,Returned
+ORD010240,Australia,Beauty,Returned
+ORD005276,India,Toys,Cancelled
+ORD007873,United Kingdom,Grocery,Returned
+ORD004970,United arab emirates,Electronics,Cancelled
+ORD009246,United arab emirates,Fashion,Cancelled
+ORD003035,India,Fashion,Returned
+ORD010961,Australia,Toys,Cancelled
+ORD008327,United Kingdom,Beauty,Returned
+ORD006907,Germany,Electronics,Cancelled
+ORD010759,United States,Grocery,Returned
+ORD005442,United Kingdom,Home & Kitchen,Cancelled
+ORD006523,Germany,Home & Kitchen,Returned
+ORD008618,India,Toys,Returned
+ORD002524,Australia,Sports,Returned
+ORD005104,Australia,Grocery,Cancelled
+ORD005251,United States,Home & Kitchen,Returned
+ORD000871,United arab emirates,Fashion,Cancelled
+ORD001954,India,Home & Kitchen,Cancelled
+ORD005875,Canada,Electronics,Returned
+ORD002723,United Kingdom,Sports,Returned
+ORD009512,Germany,Electronics,Cancelled
+ORD007444,Canada,Sports,Returned
+ORD011700,Canada,Fashion,Returned
+ORD010933,United Kingdom,Books,Cancelled
+ORD008047,United arab emirates,Toys,Returned
+ORD005886,United arab emirates,Toys,Returned
+ORD010558,United States,Home & Kitchen,Returned
+ORD005117,United arab emirates,Grocery,Cancelled
+ORD010502,India,Grocery,Cancelled
+ORD009978,United arab emirates,Grocery,Cancelled
+ORD000079,United Kingdom,Beauty,Returned
+ORD004395,India,Beauty,Returned
+ORD010515,Canada,Home & Kitchen,Returned
+ORD002641,United States,Home & Kitchen,Cancelled
+ORD002306,Germany,Home & Kitchen,Cancelled
+ORD011811,Germany,Books,Returned
+ORD011906,Germany,Toys,Cancelled
+ORD006108,Germany,Grocery,Cancelled
+ORD004110,United States,Books,Returned
+ORD011715,Canada,Electronics,Cancelled
+ORD005759,United Kingdom,Home & Kitchen,Cancelled
+ORD009793,United Kingdom,Toys,Returned
+ORD005232,Australia,Home & Kitchen,Returned
+ORD005089,United arab emirates,Fashion,Returned
+ORD006659,Canada,Sports,Returned
+ORD010253,United States,Books,Returned
+ORD002018,Germany,Sports,Returned
+ORD002352,India,Electronics,Returned
+ORD010806,Australia,Beauty,Cancelled
+ORD005630,Canada,Electronics,Cancelled
+ORD006003,Canada,Grocery,Returned
+ORD000879,Germany,Home & Kitchen,Cancelled
+ORD010664,Germany,Toys,Cancelled
+ORD001319,United Kingdom,Electronics,Returned
+ORD004123,Canada,Home & Kitchen,Returned
+ORD006608,Australia,Grocery,Cancelled
+ORD007830,United Kingdom,Books,Returned
+ORD004493,Australia,Grocery,Returned
+ORD009856,United Kingdom,Sports,Returned
+ORD009780,United arab emirates,Electronics,Returned
+ORD009194,Canada,Grocery,Returned
+ORD004823,United States,Books,Returned
+ORD008344,United States,Beauty,Returned
+ORD000703,United Kingdom,Sports,Returned
+ORD002951,Australia,Grocery,Returned
+ORD010025,India,Toys,Returned
+ORD008009,United States,Beauty,Returned
+ORD011646,Australia,Fashion,Cancelled
+ORD002338,United States,Grocery,Returned
+ORD005498,Germany,Beauty,Returned
+ORD009340,India,Fashion,Returned
+ORD007118,Canada,Toys,Cancelled
+ORD005918,Germany,Fashion,Cancelled
+ORD009438,Australia,Home & Kitchen,Cancelled
+ORD011526,United States,Home & Kitchen,Returned
+ORD002666,Germany,Books,Cancelled
+ORD010175,Germany,Books,Returned
+ORD010379,United States,Fashion,Cancelled
+ORD004055,United States,Home & Kitchen,Cancelled
+ORD001123,United States,Grocery,Cancelled
+ORD008642,United States,Toys,Cancelled
+ORD003433,Australia,Sports,Returned
+ORD006447,Germany,Books,Cancelled
+ORD011018,India,Toys,Cancelled
+ORD002438,United Kingdom,Electronics,Cancelled
+ORD001760,United States,Beauty,Cancelled
+ORD009120,Australia,Beauty,Cancelled
+ORD003069,Germany,Sports,Cancelled
+ORD002588,India,Home & Kitchen,Returned
+ORD010458,United arab emirates,Books,Returned
+ORD008293,Canada,Toys,Cancelled
+ORD003412,Canada,Beauty,Returned
+ORD002832,United Kingdom,Books,Returned
+ORD001272,India,Electronics,Cancelled
+ORD001890,United Kingdom,Sports,Returned
+ORD003061,United Kingdom,Home & Kitchen,Cancelled
+ORD005596,United Kingdom,Grocery,Returned
+ORD001739,Australia,Books,Returned
+ORD008039,United arab emirates,Grocery,Returned
+ORD002565,United arab emirates,Beauty,Cancelled
+ORD002103,United arab emirates,Sports,Cancelled
+ORD002632,Germany,Books,Cancelled
+ORD003587,Australia,Sports,Cancelled
+ORD007672,India,Toys,Returned
+ORD008513,United arab emirates,Fashion,Cancelled
+ORD006761,United arab emirates,Beauty,Cancelled
+ORD010425,Canada,Beauty,Cancelled
+ORD005662,Germany,Grocery,Returned
+ORD011282,Germany,Toys,Returned
+ORD003786,United States,Books,Cancelled
+ORD005398,United States,Grocery,Returned
+ORD000148,Canada,Fashion,Returned
+ORD004068,United States,Sports,Cancelled
+ORD005719,Canada,Grocery,Returned
+ORD009554,Germany,Books,Returned
+ORD001473,United States,Beauty,Returned
+ORD009310,Canada,Grocery,Cancelled
+ORD010547,United Kingdom,Sports,Cancelled
+ORD011108,India,Home & Kitchen,Returned
+ORD000631,Germany,Grocery,Cancelled
+ORD007119,United States,Electronics,Cancelled
+ORD009065,Canada,Electronics,Cancelled
+ORD007537,United arab emirates,Beauty,Cancelled
+ORD010249,United arab emirates,Books,Cancelled
+ORD005322,United States,Grocery,Cancelled
+ORD010346,United States,Electronics,Returned
+ORD008984,United States,Beauty,Cancelled
+ORD007779,India,Electronics,Cancelled
+ORD006334,United Kingdom,Sports,Returned
+ORD007501,United arab emirates,Toys,Returned
+ORD006739,United arab emirates,Toys,Cancelled
+ORD002580,United arab emirates,Books,Returned
+ORD006019,United arab emirates,Fashion,Returned
+ORD006482,United arab emirates,Sports,Returned
+ORD006051,India,Home & Kitchen,Cancelled
+ORD004773,Germany,Fashion,Cancelled
+ORD010994,Canada,Fashion,Cancelled
+ORD010156,United States,Home & Kitchen,Cancelled
+ORD009425,Germany,Fashion,Cancelled
+ORD007439,United Kingdom,Fashion,Returned
+ORD010394,United Kingdom,Beauty,Cancelled
+ORD001364,Germany,Beauty,Returned
+ORD007989,Australia,Toys,Cancelled
+ORD000913,United arab emirates,Toys,Returned
+ORD006662,Germany,Fashion,Cancelled
+ORD007794,India,Electronics,Returned
+ORD005470,United arab emirates,Home & Kitchen,Cancelled
+ORD003257,Australia,Grocery,Cancelled
+ORD011604,Canada,Electronics,Cancelled
+ORD002198,United arab emirates,Toys,Cancelled
+ORD000535,United States,Beauty,Cancelled
+ORD011922,Germany,Books,Cancelled
+ORD011351,United States,Books,Cancelled
+ORD007177,United Kingdom,Fashion,Cancelled
+ORD010452,United Kingdom,Grocery,Returned
+ORD005526,India,Sports,Returned
+ORD006008,United Kingdom,Sports,Cancelled
+ORD007759,Australia,Fashion,Cancelled
+ORD001244,Germany,Toys,Returned
+ORD010114,Australia,Books,Returned
+ORD002816,United arab emirates,Fashion,Returned
+ORD007156,United arab emirates,Sports,Returned
+ORD006054,United States,Books,Cancelled
+ORD000486,United Kingdom,Sports,Cancelled
+ORD005801,Canada,Home & Kitchen,Cancelled
+ORD003539,United States,Home & Kitchen,Cancelled
+ORD011321,Canada,Toys,Cancelled
+ORD007255,United Kingdom,Sports,Cancelled
+ORD006903,United States,Grocery,Cancelled
+ORD007307,United arab emirates,Sports,Cancelled
+ORD005709,United States,Home & Kitchen,Cancelled
+ORD007049,United arab emirates,Fashion,Returned
+ORD005885,Canada,Books,Cancelled
+ORD000367,Germany,Beauty,Returned
+ORD004857,Australia,Electronics,Cancelled
+ORD003665,United arab emirates,Books,Returned
+ORD006266,India,Grocery,Returned
+ORD009519,India,Fashion,Cancelled
+ORD011815,Canada,Sports,Cancelled
+ORD004148,Germany,Sports,Returned
+ORD005035,United arab emirates,Home & Kitchen,Cancelled
+ORD006549,India,Sports,Cancelled
