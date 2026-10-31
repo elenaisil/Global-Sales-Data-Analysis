@@ -8,7 +8,7 @@ This project presents an end-to-end data analysis of a messy, global e-commerce 
 ---
 
 ## 🛠️ Tech Stack & Tools
-* *   **Data Cleaning & Transformation:** DuckDB (SQL, String Manipulation, Aggregations)
+*   **Data Cleaning & Transformation:** DuckDB (SQL, String Manipulation, Aggregations)
 *   **Data Visualization:** Tableau Public
 *   **Documentation:** Markdown, Word
 
