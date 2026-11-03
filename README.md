@@ -48,8 +48,10 @@ Based on the cleaned data and Tableau dashboard, here are the major findings:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](https://github.com/elenaisil/Global-Sales-Data-Analysis/raw/main/dashboard.png)
+![Dashboard Preview](https://github.com/elenaisil/Global-Sales-Data-Analysis/raw/main/sales_dashboard.png)
 
+**Key Interactive Feature:** 
+The dashboard includes a dynamic **Year Filter** (dropdown menu) at the top. This allows users to filter the entire dashboard (Revenue Trend, Map, Category Performance) by a specific year (2024, 2025, or 2026) to perform Year-over-Year (YoY) comparisons.
 ---
 
 ## 📂 Repository Structure
